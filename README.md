@@ -1,4 +1,4 @@
-# SOMD 2025 : Finetuning ModernBERT and Adaptive Finetuning for In-Domain and Out of Domain Software Mention Detection (Named Entity Recognition and Relation Classification) in Scientific Texts
+# SOMD 2025: Adaptive Finetuning of ModernBERT for In- and Out-of-Domain NER and Relation Classification of Software Mentions in Scientific Texts
 
 ## Table of Contents
 
@@ -17,7 +17,6 @@ In this project, we utilize the dataset and evaluation criteria defined by Softw
 ## Project Structure
 
 ```bash
-
 .
 ├── CustomModel_checkpoint/
 ├── data/
@@ -31,14 +30,10 @@ In this project, we utilize the dataset and evaluation criteria defined by Softw
 │       └── relations.txt
 │       └── test_texts.txt
 │   ├── predictions/
-│   └── logs/
-│       └── training_log.txt
+│       └── phase_1/
+│       └── phase_2/
 ├── FewShot_checkpoint/
 ├── JointModel_checkpoints/
-│   ├── phase_1/
-│       └── best_model.pth
-│   ├── phase_2/
-│       └── relation_adapter_weighted_best.pt
 ├── ModernBERT_checkpoint/
 ├── src/
 │   ├── __init__.py
@@ -46,7 +41,7 @@ In this project, we utilize the dataset and evaluation criteria defined by Softw
 │   │   └── __init__.py
 │   │   └── train.py
 │   │   └── infer.py
-│   │   └── config.py
+│   │   └── config_.py
 │   ├── phase_2/
 │   │   └── __init__.py
 │   │   ├── config.py
@@ -59,9 +54,11 @@ In this project, we utilize the dataset and evaluation criteria defined by Softw
 │   │   └── utils.py
 ├── results/
 │   ├── phase_1.zip
-│   ├── phase_2.py
+│   ├── phase_2_0.55.py
+│   ├── phase_2_0.6.py
 ├── requirements.txt
 └── README.md
+└── LICENSE
 ```
 
 The model files are available at the link : [SOMD-2025-models](https://drive.google.com/drive/folders/1OUHnB04Ljye_0_SSD_zu9TTDjJAXDvPc?usp=drive_link) 
@@ -106,7 +103,7 @@ pip install -r requirements.txt
 #### Train the model
 
 ```
-cd /mnt/nvme2/SOMD/SOMD_2025/src/phase_1/
+cd SOMD_2025/src/phase_1/
 python3 train.py
 ```
 
