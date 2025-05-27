@@ -6,7 +6,7 @@
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Steps to Run](#steps-to-run)
-- [Results](#results-for-ner-and-re-in-each-phase)
+- [Results for NER and RE in Each Phase](#results-for-ner-and-re-in-each-phase)
 - [Findings](#findings)
 - [Limitations](#limitations)
 
