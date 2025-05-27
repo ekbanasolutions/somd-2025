@@ -1,3 +1,6 @@
+"""
+Data loading utilities for Phase 2: loads, processes, and splits datasets for relation extraction tasks.
+"""
 import os
 from config import (
     TRAIN_DATASET_PATH,

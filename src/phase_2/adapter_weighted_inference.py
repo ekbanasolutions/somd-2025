@@ -1,3 +1,7 @@
+"""
+Adapter-weighted inference for relation classification.
+"""
+
 import torch
 import sys
 import os

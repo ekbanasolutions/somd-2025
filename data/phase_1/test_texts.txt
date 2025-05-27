@@ -1,0 +1,203 @@
+Data were analysed using Stata V 13 ( StataCorp , Stata Statistical Software : Release 13 , College Station , Texas , USA ) .
+Descriptive statistics were performed using Graphpad Prism 6 .
+Linkage disequilibrium between the two UCP 2 polymorphisms was determined using the online tool CubeX [34] ( http://www.oege.org/software/cubex/ ) .
+All data analysis was performed using IBM SPSS Statistics 18.0 .
+All analyses were performed using STATA 11 ( Stata Corporation , College Station , TX , U.S .A . )
+All statistical calculations , except those pertaining to the Gower calculations , were made using SPSS 18 ( IBM Corp . , Somers , NY , USA ) .
+The search was conducted using PAUP * v. 4.0b 10 [45] with 100 random stepwise additions and TBR branch swapping .
+This was performed using the svyset and svy commands in Stata Version 12.1 ( StataCorp , 4905 Lakeway Drive , College Station , Texas 77845 , USA ) .
+The data were manually entered into a database and analysed using the Statistical Package for the Social Sciences software ( IBM SPSS Statistics 18 ) .
+The normality tests , repeated measures and multivariate ANOVAs , Student t - test ( two - tailed ) and Mann - Withney analysis were done using SPSS statistic 19.0 ( IBM ) .
+Peaking calling of the ChIP samples was conducted by comparison with the reads of input using MACS 2 [21] , with the significance level of p < 0.005 .
+The statistical packages SPSS 15.1 and STATA 11.1 were used to carry out the analyses .
+Regression backward model selection was conducted , using IBM SPSS Statistics v 20.0 package [94] to fit each model .
+Statistical analyses were conducted using SAS software , version 9.3 ( PROC GENMOD , with options REPEATED , CORR = IND , DIST = BINOMIAL , LINK = LOGIT ; SAS Institute , Inc . , Cary , NC ) , and a P < 0.05 was considered statistically significant .
+The GLM procedure of Minitab software , version 16.1 ( Minitab Inc . , 2010 ) was used and with the following model of fixed factors and their interactions :
+The OpenSim software is covered by the Apache License 2.0 , which permits its use for any purpose including both nonprofit and commercial applications .
+Implementation illuminaio is an R package [9] .
+PyMOL software ( DeLano Scientific LLC , San Carlos , CA , 2009 - 10 ) was used to render all the output from InsightII and to calculate the distances of hydrogen bonds as measured between the hydrogen and its assumed binding partner .
+ScoreA and ScoreB were previously reported ( [55] ) and are described in more details in the Supplementary Material .
+All analyses were conducted using SAS version 9.4 ( SAS Institute , Cary , NC ) .
+The following variables were examined using Poisson regression with robust variance estimation to account for clustering of cats within shelters ( Stata 13.1 / IC , StataCorp LP , College Station , Texas ) for possible associations with monthly URI rates between shelters : double compartment housing ( no / yes ) , intake housing floor space ( 3 - 6 ft 2 , 6 - 8 ft 2 , > 8 - 10ft 2 { .28 - .56m 2 , .56 - .74m 2 , > .74 - .93m 2 } ) , hiding space provided in intake housing ( no , sometimes , always ) , mixed - age housing ( no , yes ) , frequency of cat moves in and out of the cage in the first week ( ≤ 2 moves , > 2 moves ) , use of intranasal vaccine ( no , yes ) and monthly shelter intake ( natural log transformation ) .
+Outcomes were analyzed using unweighted linear or logistic regression ( SAS / STAT software , version 9.2 ) .
+" Project name : Pathway analysis tool WPS for high - throughput data ; Project home page : http://www.abcc.ncifcrf.gov/wps/wps_index.php [63] Operating system : Microsoft Window 2000 or XP Programming language : Microsoft Visual Basic 6 Other requirements : Internal databases for different species and a collection of over 1900 PathwayScopeFiles ( PSCP files for mouse ) available on web site ; Additional user - provided PSCP files and those from other sources will be made available as they are collected .
+Preprocessing and statistical analysis of the fMRI data was performed with SPM 8 ( Wellcome Department of Cognitive Neurology , London UK ) software for MATLAB ( Version R 2010a , The MathWorks Inc . , Natick , MA ) .
+We performed all analysis using SAS statistical software , version 9.2 ( SAS Institute Inc , Cary , NC ) .
+In the CellProfiler 3.0 release , we introduced methods for analyzing 3D images , using deep learning architectures and cloud computing resources , and other improvements to CellProfiler ’ s usability and capabilities .
+Imputation and genome wide association analyses : SCOOP , STILTS and UKHLS single - variant association analysis : Genotypes from SCOOP , STILTS and UKHLS controls were phased together with SHAPEITv 2 [61] , and subsequently imputed with IMPUTE 2 [62,63] to the merged UK 10K and 1000G Phase 3 reference panel [64] , containing ~ 91.3 million autosomal and chromosome X sites , from 6,285 samples .
+Mann - Whitney tests were performed for statistical analyses using GraphPad 4.03 ( GraphPad , San Diego , CA ) .
+Leica .xlef files were converted in .lif files and the latter were loaded into Imaris 9.1.2 ( Bitplane , Zurich , Switzerland ) .
+FACS data were analyzed with FlowJo 2 , version 1.1.0 .
+A Virtual Machine for Oracle ' s VirtualBox has also been built to provide easy access to IDEPI for users unfamiliar with the intricacies of Python package management , and is available from the main package distribution page ( http://github.com/veg/idepi/ ) .
+A PCA analysis was conducted using XLSTAT 2015 for Excel .
+We loaded the transcripts into MAXQDA 11 which is a software tool used to analyze qualitative data [88] .
+Table 1 shows that due to its implementation in the R environment , glmnet has a much heftier memory requirement than our C + + implementation and could not load the 1 million SNP dataset .
+At baseline and biennial follow - up evaluations , data collected included demographic characteristics , medical history , cognitive function , memory functioning , blood pressure , depression , and physical functioning .
+The data presented in this article represent mean ± standard deviation and were calculated using Statistical Package for the Social Sciences ( SPSS , IBM ) .
+Full details of the exact procedure are contained in the Bootstrap software used to perform the procedure ( Bootstrap Version 1.0 , http://www.pbarrett.net/Bootstrap/Bootstrap.html ) .
+The statistical analysis was performed using the Statistical Package for Social Sciences ( SPSS for Windows , version 19.0 ; IBM Corp , Armonk , New York , USA ) .
+Linear regression analyses were performed using statistical analyses software ( SAS 9 ) version 9.2 ( SAS Institute , Cary , NC ) .
+All statistical tests were conducted in Stata 11 ( Stata Corp . , College Station , TX [41] ) .
+aLFQ is written in R and freely available under the GPLv 3 from CRAN ( http://www.cran.r-project.org ) .
+Heart rate and RR intervals were obtained using Iox 2.9.5.73 software ( Emka Technologies , Paris , France ) , with an acquisition frequency of 500 Hz .
+All analyses were conducted in Stata v. 12 ( StataCorp , TX , USA ) .
+We generated multilevel logistic regression models with random intercepts to evaluate the impact of patients and trust factors on each dependent variable using MLWin V. 2.31 software ( Rasbash J , Charlton C , Browne W , et al . MLwiN , Version 2.31 . Centre for Multilevel Modelling , University of Bristol ) .
+Stimuli were elaborated using the image processing toolbox on MATLAB ( Mathworks Inc . , Sherborn , MA , USA ) .
+The results of E - β - ocimene influence on honey bee behavioural development were analysed with a two - ways ANOVA ( years and treatments ) followed by Fisher post - hoc test ( STATVIEW 5.0 , SAS Institute , Cary , NC ) .
+Cumulative survival analysis was performed using the Kaplan - Meier method , and the log - rank test was used to compare the curves ( R packages survminer and survival ) .
+We used SAS 9.4 ( SAS Institute , Cary , NC , USA ) for data set - up and analyses .
+Users are welcome to use an instance of PhyloBot available at http://www.phylobot.com , or launch their own instance of PhyloBot using its open - source code .
+All tests were performed using the JMP 5.0 Statistics software package ( SAS Institute Inc . , Cary , NC ) .
+The data were log ( 2 ) transformed and normalized using Partek Genomics Suite ( Partek Inc . , St . Louis , MO ) .
+The internal consistency and reliability of the psychometric tools ( PHQ - 9 , GAD - 7 , PSQI ( 5 ) , BAI , and IES - R ) were determined by computing Cronbach ’ s alpha values [28] .
+In short , there are three advantages for illustrating our results with Pong : i ) the Pong game has a real - time two player mode , ii ) DQNs are good in Pong and iii ) the game is well - known and can be easily understood by the reader .
+We have developed ANDES , a software library and a suite of applications , written in Perl and R , for the statistical ANalyses of DEep Sequencing .
+IDEPI makes use of open source libraries for machine learning ( scikit - learn , scikit-learn.org/ ) , sequence alignment ( HMMER , hmmer.janelia.org/ ) , sequence manipulation ( BioPython , biopython.org ) , and parallelization ( joblib , pythonhosted.org/joblib ) , and provides a programming interface which allows users to engineer sequence features and select machine learning algorithms appropriate for their application .
+All of this analysis was implemented using Matlab , and the code is available for download from a public GitHub repository https://github.com/EmoryUniversityTheoreticalBiophysics/C.-elegans .
+All statistical analyses were performed using the statistical package SAS , version 9.1 ( SAS Institute , Inc . , Cary , North Carolina ) .
+Finally , membranes were developed with enhanced chemiluminescence ( ECL ) western blotting substrate ( ThermoFischer Scientific ) , scanned using a LAS 4000 Biomolecular imager ( GE Healthcare ) and analysed with ImageQuant TL version 7.0 software ( GE Healthcare ) .
+OpenEpi ( Atlanta , GA ) [25] was used to perform t - tests and χ 2 tests of independence , and SAS version 9.2 ( Cary , NC ) was used for descriptive statistics and logistic regression modeling .
+The experiment program was conducted by the E - Prime 1.2 ( Psychology Software Tools , Inc . , Pittsburgh , PA ) .
+Statistical analysis
+The significance level was defined as p < .05 and the data were analyzed using SAS software version 9.1 ( SAS Institute Inc . , 2003 ) .
+For the Maxent model , we used the ‘ dismo ’ R package ( version 0.8 - 17 ) with the Maxent default settings .
+The interval confidence of apparent prevalences were calculated with the “ EpiR ” package , the graphics were performed with the “ ggplot 2 ” package and the GAMs were implemented in the “ mgcv ” statistical package , all from the R statistical software [43] .
+Networks were visualized using the BisoGenet plug - in [27,28,32] within the Cytoscape environment [24,33] .
+Statistical analyses were performed using SAS 9.3 ( SAS Institute INC . Cary , NC , USA ) , R software ( http://www.r-project.org ) , and a web - based PABAK - OS calculator ( http://www.singlecaseresearch.org/calculators/pabak-os ) .
+We used the LiDAR Analyst 5.0 extension [50] of ArcGIS 10.1 [51] to identify biophysical attributes of trees in the study area that are relevant to the estimation of biomass .
+To quantify the evidence in support of the null hypothesis in these two comparisons , we computed the corresponding Bayes factors ( using JASP 0.7.5.6 ; www.jasp-stats.org ) .
+To analyze associations between individual and environmental variables and walking for transportation , we estimated several multilevel logit ordinal regression models using the Dual Quasi - Newton optimization estimation approach of Proc Glimmix in SAS 9.3 ( SAS Institute Inc . , Cary , North Carolina ) .
+" Project name : MicroSyn Project home page : http://fcsb.njau.edu.cn/microsyn Operating system ( s ) : Windows Programming language : C # Requirements : .net framework on Windows "
+We investigated transcriptional regulatory networks consisting of transcription factors and associated induced / repressed target genes using R package RTN [54] .
+A distribution of averages was then used to derive 95 % confidence intervals using the first - order normal approximation as implemented in the boot package for R [114] .
+All analyses were performed using Stata 14.2 [36] .
+Statistical analyzes were performed using the STATA version 13 application ( StataCorp , College Station , Texas , USA ) and the thematic maps were constructed using the QGIS software version 2.12.3 ( OSGeo , Beaverton , OR , USA ) .
+Execution times were similar between glmnet and gpu - lasso , where gpu - lasso was slightly faster .
+The methods of this study have been reported previously [41] .
+" Project name : GenomePop v. 1.0 Project home page : http://webs.uvigo.es/acraaj/GenomePop.htm Operating system ( s ) : Windows and Linux ( the source will be provided to compile for Mac ) Programming language : C + + License : GNU GPL . "
+STATA 12.0 by StataCorp LLC was the statistical software used in the analysis .
+From each PCLS , triplicates of 30 μ m thick 3D stacks were recorded randomly and analyzed using IMARIS 7.4.0 software ( Bitplane Scientific Software , Zurich , Switzerland ) , as described previously [7] .
+The above analyses were performed in Stata 13 statistical software [32] .
+For the purposes of the present study , we linked data from Jan 1 , 2000 to Dec 31 , 2009 .
+For the statistical analysis of the BOLD signal changes , we specified general linear models ( GLM ) with regressors for the experimental conditions defined in SPM 8 ( Welcome Trust Centre for Neuroimaging , UK ) .
+Statistical analysis was performed with the Statistical Package for the Social Sciences ( SPSS , Chicago , IL , USA , version 21.0 ) and SAS 9.2 for Windows 9.2 TS Level 1M 0 ( SAS Institute Inc . Cary , NC , USA ) .
+All recordings were acquired using Scan 4.3 ( Compumedics Neuroscan ) and stored for off - line treatment .
+Effects were evaluated for significance at p < .01 .
+Analysis were conducted using SPSS vs . 20.0 ( IBM Corp . , released 2011 , Armonk , NY ) and GraphPad Prism 7.0 software ( GraphPad Software , Inc . , San Diego , CA ) .
+Data analyses were conducted using the SAS software version 9.1 ( SAS , 2004 ) and SUDAAN ( Research Triangle Institute , 2004 ) .
+The FragIt source code is distributed under an open source license ( GPL , version 2 or later ) and users of the FragIt code are encouraged to submit changes and additions , especially for their own ( fragmentation ) methods .
+SPSS 23 ( IBM , Armonk , New York ) was used for all analyses .
+SPSS software , version 18.0 ( SPSS Inc . , Chicago , IL , USA ) was used for all analyses .
+The analyses were done using SAS ( Version 9.1.3 . SAS Institute Inc . , Cary , NC , USA ) .
+" Project name : Pathomx Project home page : http://pathomx.org Platform : Binaries are available for download on Windows and MacOS X .
+Statistical analyses were conducted using the Statistical Package for the Social Science ( SPSS ) version 19.0 and a p - value of less than 0.05 was used to define statistical significance .
+These data collection procedures have been described in an earlier study [17] .
+Data were analyzed using Statistical Parametric Mapping 5 ( SPM 5 , Wellcome Department of Cognitive Neurology , London , UK ) software implemented in Matlab 7.8 ( Mathworks , Sherborn , MA , USA ) .
+All statistical analyzes were performed with GraphPad Prism 5.0 for MacOS X ( GraphPad Software Inc , La Jolla CA ) and all data are expressed as mean ± SEM .
+PyPhi is open - source and licensed under the GPLv 3 ; the source code is hosted on GitHub at https://github.com/wmayner/pyphi .
+Statistical analysis was performed using Excel ( Microsoft ) and OriginPro ver 7.5 ( OriginLab ) .
+Statistical analyses were performed using PASW Statistics version 18 for Windows ( SPSS Inc . ) .
+Data were analysed using SPSS 15.0 for Windows .
+Google ’ s deep learning framework TensorFlow [40] was used to train , tune , and test the CNN .
+As such , all figures pertaining to these analyses are presented in the Supporting Information section ( S1 - S4 Figs ) to permit better focus on the principal results of the paper .
+All further statistical analyses ( t - tests for dependent samples ) were calculated using the software package SPSS 11.5 ( SPSS Inc . , Chicago , USA ) .
+To this end , we developed scPipe , an R / Bioconductor package that integrates barcode demultiplexing , read alignment , UMI - aware gene - level quantification and quality control of raw sequencing data generated by multiple protocols that include CEL - seq , MARS - seq , Chromium 10X , Drop - seq and Smart - seq .
+Twenty eight predictors recorded by TEDS - D were included in the analysis .
+The alignment of raw reads was conducted by Bowtie 2 ( [53] ) in end - to - end mode .
+We carried out meta - analyses using standardized betas and standard errors from each of the studies .
+Recombination in our nuclear genes was tested using the PHI test implemented in SPLITSTREE 4.11.3 [35] and the tree - based SBP and GARD methods [36] implemented online via the Datamonkey webserver [37] .
+Imaging data were analysed using BrainVoyager QX ( Brain Innovation , Maastricht , the Netherlands ) .
+STATA SE .9 software was used for all statistical analysis .
+The Open Meta - Analyst ( Center for Evidence Synthesis in Health , Brown University , Providence , RI , USA [9] ) was used for all analyses .
+CloVR - ITS is made available as a pre - installed , automated , and portable software pipeline for cloud - friendly execution as part of the CloVR virtual machine package ( http://clovr.org ) .
+Then , the hypotheses were tested with OLS Ordinary Least Square through the PROCESS macro for SPSS , which assesses the conditional indirect effects [38] .
+Gene correlation analysis and feature correlation heatmaps were performed on the PIVOT platform , developed by the Kim Lab ( http://kim.bio.upenn.edu/software/pivot.shtml ) [65] .
+Figure generated using clam for R [53] .
+All analyses were performed using SPSS software ( version 17.0 , IBM , China ) for Windows 7.0 .
+Data are presented as ( Mean ± SEM ) and were analysed with IBM SPSS 22.0 software .
+All analyses were performed using SAS , release 9.4 ( SAS Inc . Cary , NC , USA ) and SUDAAN , release 11.0.1 ( Research Triangle Institute , Research Triangle Park , NC , USA ) .
+All statistical analyses were conducted using the SPSS version 17.0 ( IBM Inc . , Armonk , NY , USA ) .
+Multilevel regression analyses were performed in SAS software version 9.2 ( SAS Institute Inc . , 2009 ) .
+The Statistical Analysis System for Windows , version 9.4 ( SAS Institute , Cary , NC , USA ) , was used for analysis .
+We checked returned sequences using the RDP Classifier v 2.2 [25] , and discarded a single sequence from the Snodgrassella set not matching Betaproteobacteria .
+Confirmatory factor analysis with Mplus version 7.3 [51] was used to estimate the degree of fit for each grooming measure ( TTM , SP and NB ) .
+Pearson statistics were used for correlational analyses .
+Strawberry was written in C + + 14 and utilizes features such as threading library for parallelization .
+All analyses were done using Stata version 9.2 and ESRI ArcGIS version 9.2 .
+OHM ( OligoHeatMap ) is an online tool able to provide estimates of T for a set of oligomers and a set of aligned sequences , not only as text files of complete results but also in a graphical way : T values are translated into colors and displayed as a heat map image , either stand alone or to be used by softwares such as TreeDyn to be included in a phylogenetic tree .
+Statistical analysis was performed using a one - way ANOVA followed by Bonferroni multiple comparison tests ( Statistical Package for the Social Sciences software , SPSS version 13.0 ) .
+Images were imported into Adobe Photoshop 8.0.1 ( Adobe Systems ) .
+To identify statistical significant differences between the control and IUGR fetal brain tissue samples the processed data files were imported into Agilent Mass Profiler Professional software version 12.1 ( Agilent Technologies , Santa Clara , CA ) for statistical analysis .
+The statistical tests were performed using the Statistical Package for Social Sciences ( SPSS ) for Windows ( Version 13.0 , Chicago , IL , USA ) .
+Models were run using the MATLAB routine REGRESSIONv 2.m described in [54] .
+Studies were exported to remove the duplicates in Refworks ™ and then exported to Microsoft Excel .
+Statistical analysis was carried out using the Statistical Package for the Social Sciences , Release 17.0 ( SPSS Inc . , Chicago , IL ) .
+Data analysis was conducted using SPSS version 14 for windows .
+All statistical analyses were performed using the SAS software version 9.4 ( SAS Institute , Cary , NC , USA ) .
+All estimations were performed by MLwiN within STATA 12 MP ( Stata , Corp . ) and MLWiN 2.26 through runmlwin procedure [30] .
+MIiSR is an open - source project licensed under the GNU General Public License and is available as S1 - MIiSR Program in this paper , with updated versions published at http://www.phagocytes.ca/miisr/ .
+We built a generalized linear mixed model ( GLMM ) using the GLIMMIX procedure [43] in SAS v 9.3 to identify factors associated with the occurrence of groups .
+Data were cleaned in Access and then analyzed using SAS 9.3 ( SAS Institute Inc . ) .
+Predicted targets of known miRNAs were then analyzed with the TargetScan software v 7.0 [102] .
+Furthermore , we performed power calculations for case - control genetic association analyses using PGA v 2.0 [45] .
+All analyses were performed using SAS version 9.2 ( SAS Institute Inc . USA ) .
+Statistical analyses were performed using JAGS Gibbs - sampling environment [43] and R 3.0.3 [44] .
+All statistical analyses were conducted using IBM SPSS Statistics 21 .
+NFTsim is distributed under the Apache 2.0 license .
+The statistical analyses were performed using SPSS software ( version 19.0 ; IBM Corp , New York ) .
+A validated algorithm [14] was used to automatically classify 1 - min actigraphy epochs into active wake , sleep , or waking rest ( Respironics Actiware , Version 5.59.0015 , standard settings ) .
+The raw reads of each sample were mapped to the closed reference genome , CFSAN 001339 , using Novoalign V 2.08.02 ( http://www.novocraft.com ) , and the variants were called using SAMtools and stored in a VCF file [43] .
+For questions for which answers could be “ yes , ” “ I don ' t know ” or “ no , ” ( e.g. , “ Did any of the field sites have a code of conduct ? ” ) , KH and JR conservatively bifurcated responses into “ yes ” and “ not yes . ” Chi - square , t - test , and regression models were constructed in JMP 9.0 ( SAS , Inc ) .
+Correlation of geographic and genetic distances was determined using Mantel ’ s permutation test with 10,000 permutations executed by IBDWS v. 3.15 [52] .
+Spatial preprocessing and statistical analysis of functional images were performed using SPM 8 ( Welcome Department of Cognitive Neurology ) .
+MRI data was analyzed using SPSS Statistics ( IBM , version 19 ) using a generalized linear model fitted to a gamma distribution , with MAM treatment , enrichment , and gender as factors .
+We carried out data analysis in R v. 3.2.1 ( R Development Core Team , 2013 ) .
+Analyses were performed using Stata version 13.0 ( Stata Corp , College Station , Texas ) .
+All statistical analyses were carried out using GraphPad Prism version 5.04 for Windows , GraphPad Software , San Diego , CA , www.graphpad.com.
+All data were analyzed using SPSS statistical software ( version 21.0J ; IBM SPSS Japan , Tokyo , Japan ) .
+Small - for - gestational age was defined as an infant being below the 10th weight centile for gestational age as determined by the INTERGROWTH - 21st Newborn Size Application Tool using standards derived from births in eight ethnically distinct countries ( http://intergrowth21.ndog.ox.ac.uk/ ) .
+Potential trade - offs were identified using radar plots in R ( version 3.2.2 [30] ) and the fmsb package [31] .
+MAGPIE was implemented in Ruby on Rails 5 .
+All regression analyses were conducted using Proc Glimmix in SAS 9.3 ( SAS Institute , Cary , NC , USA ) .
+Data analyses were performed in SPSS ( SPSS Statistics for Windows , Version 20.0 . Armonk , NY : IBM Corp ) and confirmed in R ( Version 3.0.1 , The R Foundation for Statistical Computing , Vienna , Austria ) .
+CIBERSORT analyses were performed on RNAseq data by using the analytical tool developed by Newman et al . ( http://cibersort.stanford.edu ) [30] .
+All the processing , analyses , and machine learning were conducted using the MATLAB software package ( version R 2009a and R 2015a , Mathworks Inc . , Natick , MA , USA ) .
+This example file runs on BEAST 2.1.0 with the MultiTypeTree package ( http://compevol.github.io/MultiTypeTree/ ) .
+The software and documentation for M - Track are freely available for download from the Scimemi lab website ( https://sites.google.com/site/scimemilab2013/software ) or from the GitHub repository ( https://github.com/scimemia/M-Track ) .
+The SPS contains eight factors covering impairment and symptom severity .
+Excel , Prism 5 ( GraphPad Software Inc . ) , and Adobe Illustrator CS 5 ( version 15.0.0 ) were used to create graphical representations of data ( depicted as mean ± s.e .m ) .
+In order to determine a relationship between biological aspects and behavioral problems statistical analyses were done using IBM SPSS 20 ( IBM SPSS 20 , Chicago , USA ) .
+SCOTTI is implemented as an open - source package for the Bayesian phylogenetic software BEAST 2 [28] , and as such , it can be freely installed and used .
+All statistical analysis was performed using the Stata / SE software ( release 13.1 ) ( Stata Corp LP , College Station , TX , USA ) , and the statistical significance level was set at P = 0.05 in all statistical inferences .
+All statistical analyses were performed using SAS 9.3 ( SAS , Cary , NC , USA ) , with the significance level set to 0.05 , two - tailed .
+A comparison of FSAs that were included in the analyses to those excluded indicated that they were comparable ( e.g. , 51.0 % versus 50.4 % for the % women in the FSAs ) .
+Statistical analysis was performed using GraphPad Prism ( version 4.0 ) and SPSS ( version 20 ) .
+Upon reaching adulthood , individuals were photographed and their head width and pronotum width measured to the nearest 0.01cm using ImageJ 1.48 [45] , with sex being determined by examination of the sexually dimorphic subgenital plates .
+Sperm concentration and motility were assayed using a computer - aided sperm analyses ( CASA ) system coupled to a phase contrast microscope ( Nikon Eclipse model 50i ; Nikon Instruments Europe B.V . , Izasa S.A . ; negative contrast ) and employing Sperm Class Analyzer ( SCA , Barcelona , Spain ) v. 4.0 . software ( Microptic S.L . , Barcelona , Spain ) [35] .
+The reaction network consists of 173 chemical species and 6,581 unidirectional reactions . ( The size of the reaction network reflects the number of protein phosphoforms and protein complexes that can arise from the interactions represented by the rules of the model . ) BioNetGen ’ s built - in ODE solver , CVODE from the SUNDIALS package [69] , was then used to numerically integrate the ODEs , using default settings .
+The present study included follow up data from baseline to October 9 , 2011 .
+This map was generated using ArcGIS 10.2.2 ( www.esri.com ) .
+All images were acquired through the Matlab Image Acquisition Toolbox ( Mathworks , Matlab v 2011b ) at 2 frames / s ( 500 ms exposure ) at 360x 260 pixel ( px ) resolutions ( using 4x 4 hardware binning ) .
+The user - written ice commands [35] - [41] in Stata v 11.2 ( Stata Corp , TX , USA ) were used to complete five imputations with ten cycles in each imputation .
+Age and gender were added as covariates in all analyses but the ones performed on standardized data .
+Sum projection of 2 Z - stacks separated 2 μ m from each other was done with the freeware ImageJ v 1.51 u by Wayne Rasband ( National Institutes of Health , Bethesda , MD , USA ) and images were next automatically quantified with the NIS - Elements Microscope Imaging Software ( Nikon ) .
+We used Microsoft Office Excel 2010 and Stata software ( Stata / SE 13.1 ) for all analyses .
+We conducted all statistical analyses in Stata version 13.1 ( StataCorp , Texas , USA ) .
+All relevant data are within the paper and its Supporting Information files .
+The resampling procedures were conducted in Microsoft Excel 2010 using VBA code written by FAC ( Appendix S2 ) .
+SPSS 22.0 for Windows ( SPSS Inc . , Chicago , IL ) was used for the analyses .
+Reads were mapped to the Genome Reference Consortium GRCm 38 mouse assembly using Tophat 2 ( v 2.0.8 ) [17] with the Illumina iGenomes package ( mm 10 ; http://support.illumina.com/sequencing/sequencing_software/igenome.html ) .
+Novoalign was used to align the sequencing data to the human reference genome [ NCBI build 37 ] and the Genome Analysis Toolkit ( GATK ) [49] was used for post - processing and variant calling according to GATK Best Practices recommendations [50,51] .
+The statistical analysis was performed using the Statistical Package for Social Sciences ( SPSS for windows , version 19.0 ; Chicago , Illinois , USA ) .
+SNPdetector was implemented in C and Perl .
+Table identifier and caption : 10.1371/journal.pmed.1001414.t002 Characteristics of included studies .
+Analyses were conducted using STATA Version 13 for Windows ( College Station , TX , USA ) .
+Data were processed with GraphPad Prism ( GraphPad Software , San Diego , CA ) .
+All statistical analyses were conducted using SPSS Statistics 22 ( Dynelytics , Zurich , Switzerland ) .
+Preprocessing and statistical analysis were performed in SPM 8 ( www.fil.ion.ucl.ac.uk/spm/software/spm8 ) .
+The sample size was calculated using the G * Power 3.1 software ( release 3.1.9.2 ; available from : http://www.gpower.hhu.de/ ) [27] to assess the null hypothesis of no difference in parasite load levels between different sampling sites within the CL ulcer .
+All statistical analyses were conducted with SPSS ( v. 20.0.0.2 ) and R ( v. 3.1.3 ) .
+ImageJ [17] is a public domain , Java - based image - processing program developed at the National Institutes of Health .
+All statistical analysis was undertaken in Stata , version 13.1 [41] .
+The entire sequence of touches for each participant that contains the special runs was then entered into a Monte Carlo program ( TouchStat 3.0 ) [41] to determine if they were likely to have occurred by chance .
+These procedures were performed using the SPSS 11.5 software package [40] .

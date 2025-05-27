@@ -1,3 +1,6 @@
+"""
+Dataset class for relation extraction tasks, including entity and relation label alignment with tokenized inputs.
+"""
 import torch
 from torch.utils.data import Dataset
 from .utils import align_labels

@@ -1,3 +1,7 @@
+"""
+Configuration file for Phase 1 model training and evaluation.
+Defines model paths, training hyperparameters, and other constants used throughout the pipeline.
+"""
 BASE_MODEL = "answerdotai/ModernBERT-base"
 CHECKPOINT_PATH = "../../CustomModel_checkpoint/model.safetensors"
 TRAIN_SIZE = 0.8

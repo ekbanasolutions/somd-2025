@@ -1,0 +1,1149 @@
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application O B-Developer I-Developer O B-URL O O B-Application O B-URL O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O O O B-Version O O O O B-PlugIn I-PlugIn B-Version O O B-Application B-Citation O
+O O O O O O O O O B-Application I-Application O B-Version O B-Developer O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Extension O O B-Version O B-Developer O O O O O O O O O O
+O O O O O B-Application O B-Version B-Citation O O B-ProgrammingEnvironment O O B-PlugIn B-Citation
+O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Application O B-OperatingSystem O B-Version O O B-Citation O
+O O O O O O O O O O O O O O O O O O O O B-Application B-Extension O O O B-Developer I-Developer I-Developer I-Developer O O O O O O O
+O O O O O B-Developer B-Application O B-Version O
+O O O O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O
+O O O O O B-Application I-Application O B-URL O O B-Application O B-Version B-Citation O B-PlugIn I-PlugIn I-PlugIn B-Citation O O O O O O O O O
+O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-Application O B-URL O O B-Application O B-URL O O O B-Application O B-URL O O O O O O O O B-Application O O B-Version O B-URL O O
+O O O O O O B-Application B-Version O O O B-Developer O O
+O O O O O O O O O O O O
+O O O O O O O O B-Application I-Application O O B-Version O O O O B-Application O O B-Version I-Version O O
+O O O O O O B-Application B-Version O O O B-Developer I-Developer O O O O O O O O
+B-Application O O O O O O O O B-Application O B-URL O O O O O O O O B-URL O O
+O O O O O O B-Application O O B-Version O O O B-OperatingSystem B-Version O B-Release I-Release O O O
+O O O O O O O O O O O O O O O O B-Application O B-Version B-OperatingSystem O O
+O O O O O O O O O O O O
+O O O O O O B-Developer B-Application B-Version O B-Developer I-Developer O O O O O O O O O O
+O O O O O O O O O O O B-Application B-Version B-Citation O
+O O B-Application O O B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O O
+O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O O B-Version I-Version B-Citation O B-Application O O B-Version B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version B-Citation O O O O O
+O O B-Application O O O B-ProgrammingEnvironment I-ProgrammingEnvironment I-ProgrammingEnvironment B-Version O O O O O O O O O B-URL O O B-License I-License O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-Application I-Application I-Application B-Version O O O O O O O B-Application I-Application I-Application B-Version O O O O O B-URL O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O O O O O O O O O O O O O O O B-Citation O
+O O O O O O O O B-Application O O B-Version O B-Developer O O O
+O O O O B-ProgrammingEnvironment O B-Developer O O B-Application O B-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-Application O O O O O O O B-License I-License O B-Version O O
+O O O O O B-ProgrammingEnvironment O O B-PlugIn O B-Citation O
+O B-Application O B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Citation O O O O O
+O O O O O O B-Application O O O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Application O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O B-Application O B-OperatingSystem O O B-Version O B-Release O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O B-Application I-Application I-Application O O B-Application B-Version O O
+O O O O O O B-Developer B-Application O B-Version O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O O O O O O O O O O O O O O O
+O O O O O O O B-ProgrammingEnvironment O O O O B-Version B-Citation O O O O O O O B-PlugIn I-PlugIn I-PlugIn B-Citation O
+O B-Application O O O O O O O O O O O B-URL I-URL I-URL O O O O O B-License I-License O B-Version O O
+O O O B-Application O O O B-Application O O O B-Citation I-Citation I-Citation I-Citation I-Citation I-Citation I-Citation I-Citation I-Citation I-Citation I-Citation I-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-Application B-Citation O B-Application B-Citation O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-Application O O O O O O B-Application O O O B-Version B-Citation O
+O O O O O B-Application I-Application I-Application O O O O O B-URL O O O O O O O O O O O O O B-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn O O B-ProgrammingEnvironment B-Citation O
+O O O O O O B-Application B-Version B-Citation O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Application O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application O B-Version O O B-Developer O O O O O O
+O O O O O O O O O O O O O O O B-Application I-Application I-Application O B-URL O O O O O O B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O O O O O B-ProgrammingEnvironment O O B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Developer I-Developer O O
+B-Application I-Application I-Application O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment O
+O O O O O O O O O O O O O O O O O B-Application B-Version O O O O B-Citation O
+O O O O B-Application I-Application I-Application O O B-Application I-Application I-Application B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-SoftwareCoreference I-SoftwareCoreference O O O O B-License I-License B-Version O B-URL O B-SoftwareCoreference I-SoftwareCoreference I-SoftwareCoreference I-SoftwareCoreference O B-OperatingSystem O B-OperatingSystem O O O B-URL O
+O O O O O O O O O B-Application I-Application I-Application I-Application O O O O O O O O O O O B-Developer O B-URL O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O B-Application I-Application I-Application O B-Abbreviation O B-Version O O B-Developer I-Developer I-Developer I-Developer O O O O O O O
+O O O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application I-Application B-Version O O O B-URL O O B-Developer O O
+O O O O O O B-Developer B-Application I-Application B-Version O B-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O B-Application O O O O O O B-Application O O B-Version O B-Developer I-Developer O O O O O O
+O O O O O O B-Application B-Version O B-OperatingSystem O B-Developer I-Developer I-Developer O O O O O O O B-Release O O
+O O O O O O O O B-Application I-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Developer B-Application O O B-URL O O O O O O O O O O O O O O B-Application O
+O O O B-SoftwareCoreference O O O O B-License O O O O O O O O B-URL O
+O O O O O O B-Developer B-Application O O B-Developer I-Developer O O O O O O O O O B-Application O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O B-Application I-Application I-Application O B-URL O O B-Application B-Version O B-Application B-Version O O
+O O O O O O O O O O O O O O O O O O O O B-Application B-Version O O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O
+B-SoftwareCoreference O O O O O O O O O O O O O O O O O B-Application O B-URL O
+O O O O O B-Application I-Application O O O B-Version O O B-Application O O B-Version O O
+O B-Application O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Developer B-Application O B-URL O O B-Application B-Version O B-URL O O
+O O B-SoftwareCoreference O O B-URL O O O O O B-URL O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-Application O B-Developer I-Developer O B-URL O O
+O O O O O O B-Application O O O O B-Application B-Version O O
+B-PlugIn O O B-ProgrammingEnvironment B-Citation O B-PlugIn B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O B-Application O O O O O O O B-Application O O B-URL O O O O O O O O O O O O O O O O O
+O O O O O B-Application O B-Version O B-Developer O O O O O O O
+O O O O O B-Application O B-Extension B-Version O
+O O O O O O B-Developer B-Application O O B-Version O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Developer I-Developer O B-Developer O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O
+O O O B-Application O B-Citation I-Citation I-Citation O O O O O B-Application O O O O B-Application O O O O O O O O O O B-Application B-Version O B-Citation I-Citation I-Citation O O O O O O O O O O O B-Application B-Version O B-Citation I-Citation I-Citation O O O O O B-Application O B-Version O B-OperatingSystem O B-Citation I-Citation I-Citation O O B-Application O B-Citation I-Citation I-Citation O O O O O O O O O O B-Application B-Version O
+B-Application I-Application O B-Developer O B-Version O O O O O O O
+O O O O O B-Application O B-Version O B-Developer O O
+O O O O O O O O O O O O O O B-PlugIn I-PlugIn I-PlugIn B-Version B-Citation O
+O O O O O O O O O B-Application O O O O O O O O O O O O O O O O O O O O O B-Application O O O B-URL O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-PlugIn O O O B-ProgrammingEnvironment O O B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Application B-Version O O O O O O O O O
+O O O O O O B-PlugIn I-PlugIn B-Citation O B-ProgrammingEnvironment O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O B-Application O O O O B-URL O O O O B-URL O O O O O O O O B-OperatingSystem O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment O O B-License I-License O B-Version O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn O O B-ProgrammingEnvironment B-Citation I-Citation I-Citation I-Citation I-Citation O
+O O O O O B-Application I-Application B-Version O B-Developer I-Developer O O O O O O
+O O O O B-Application B-Version O B-Extension O B-Citation O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O
+O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Citation O
+O O O O O O O O O O O O O O O O O O O
+O O B-Application O O O B-URL O O O B-Application O O O O O O O O O O O O O O
+O O O O O O O B-Application O O O O O O O O O O O O O O B-Application O O O O B-Application O O O O O O B-Application O
+O O O O O B-Application O B-Version B-Citation O
+O O O O O O O O O O O B-Application O O B-Version O B-OperatingSystem B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+B-Application O O O O O O O O O O O O O O O O O O O O O B-Application O B-Developer I-Developer O O O O O O O B-Application O B-Developer I-Developer I-Developer I-Developer O O O O O O O
+O O O O O O B-ProgrammingEnvironment O O B-PlugIn I-PlugIn B-Citation O
+O O O O O O O O O O O O O O B-Developer B-Application O O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-Developer B-Application B-Version I-Version O O
+O O O O O B-Application B-Version O B-Citation O
+O O O O O O O O O O O B-Application B-Citation O B-Application O
+O O O O O B-PlugIn O O O O O O O O O O O O B-License O B-Version O O
+O O O O B-Developer B-Application O B-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-Version O
+O O O O O O B-Application O O B-Version O B-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-Application O B-Application O B-Application O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-PlugIn B-Version O O O O O O O B-Application O O B-URL O O
+B-Application O O O B-License I-License O O O O O O O O O O B-URL O O
+O O O O O O O B-Application O B-Version B-Citation O O O O O O O O B-Application O B-Version B-Citation O
+O O O O O O O O B-Developer O O B-Application O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Citation O
+O O O O O O O O O O O O B-Application O B-Version B-Citation O O O O O O O O O O
+O O O O B-Developer B-Application I-Application O O B-Version O
+O O O O O O O O O O O O O O O O O O O O B-Application O O B-Version O B-Developer O O
+O B-Application O O O O O O O O O O O O O B-License I-License O B-URL O B-URL O
+O O O O O O O O O O O O O B-Application O O B-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName O O B-Version O O O O B-PlugIn O O B-ProgrammingEnvironment O O B-Version B-Release O B-Developer I-Developer I-Developer I-Developer O O O O O O B-Citation O B-ProgrammingEnvironment O B-Version O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Developer B-Application B-Extension O B-Version O O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O B-Release O O
+O O O O O O O O O O O O O O O O O B-Developer B-Application I-Application B-Version O O O O O O O O O O O O O O O O B-Application B-Version O
+O O O O O O O O O O O O O O O O O O O O B-Application O B-Application O O O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O O O O O O B-Application B-Version O O O O B-Developer I-Developer O O
+O O O O O O O B-Application I-Application I-Application O B-Application B-Version O O O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O B-ProgrammingEnvironment B-Release I-Release O B-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-Application O O B-Version O B-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-Application O O O O B-Version O B-Developer I-Developer O O
+O O O O O O O O B-Application B-Version O O O O O O O O B-Application B-Version O O O
+O O O O O O B-Application O O B-Application O B-Version O B-Developer O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-ProgrammingEnvironment O O O B-Version B-Citation O
+O O O O O O O O B-PlugIn O B-ProgrammingEnvironment B-Version O B-Application O B-Version O O O O O O O O O O O O
+O O O O O B-Application O O B-Developer B-Application I-Application O B-OperatingSystem O B-Version O O O O O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O
+O O O O O O O B-PlugIn O B-Application B-Citation O
+O O O O O B-Application I-Application I-Application I-Application I-Application O B-Version O O B-Developer I-Developer I-Developer O O O O O O O O O O O B-Developer B-Application B-Version O O B-Developer I-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O B-Application B-Version O B-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application O B-Abbreviation O O B-Citation O
+O O O O O O O O O O B-Application B-PlugIn I-PlugIn I-PlugIn O B-Abbreviation O O O O O O
+O O O O O O O O O O O O O O O O B-Application O B-Extension B-Version O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O B-Developer I-Developer I-Developer I-Developer O O O B-Release O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O B-Version O B-Citation O
+O O O O O O O B-Application B-Version O B-Developer O B-Release O O
+O O O O O B-Developer B-Application B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O O O
+O O O O O O B-Application B-Version O O O O O O O O O O B-PlugIn O O B-ProgrammingEnvironment O
+B-Application B-Version O B-OperatingSystem O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-Application B-Version O B-Citation O
+O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O
+O O O O O O B-Application O B-OperatingSystem O B-Version O B-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-Application O O B-Version O B-OperatingSystem O B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O O B-PlugIn B-Citation O
+O O O O O O O O O B-PlugIn O B-Version B-Citation O O B-Application O B-Version B-Citation O O
+B-Application O O O O O O O B-URL O O O O B-License I-License O O
+O O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Version O B-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O B-Developer B-Application O B-Version O B-OperatingSystem O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment I-ProgrammingEnvironment I-ProgrammingEnvironment O O O O O O O O O O O O O B-Application O B-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName O O
+O O O O O B-Application B-Version O O O O O O O O B-ProgrammingEnvironment B-Version B-Citation O
+O B-SoftwareCoreference O O O B-License I-License I-License I-License O O O B-URL O
+O O O O O B-Application B-Version O B-Developer O O O O O O
+O O O O O O O O O O O O O O O B-Application B-Extension O O O B-Version O B-Developer I-Developer O O O O O O O O O
+O O O O O O O O O B-Application B-Version O B-AlternativeName I-AlternativeName I-AlternativeName B-Citation O
+O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O O O B-PlugIn B-Citation O B-PlugIn B-Citation O B-PlugIn B-Citation O O
+O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O
+O O O O B-Application B-Extension O B-Developer I-Developer O O O
+O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application O O B-Version O B-Developer O B-URL O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-PlugIn O B-Citation O B-ProgrammingEnvironment O
+O O O O O O O B-ProgrammingEnvironment O B-Version B-Citation O O O O O O O B-PlugIn O B-Citation O O O O O
+O O O O O O B-Application I-Application O B-Version O B-Developer I-Developer O O O O O O O O B-Application O O B-Version B-Citation O O O O O O O O O O
+O O O O O O B-Application O O B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O
+B-Application O O O B-ProgrammingEnvironment O O O O O O O O O O O B-License I-License O O O O O O O O B-OperatingSystem O B-OperatingSystem O
+O O O O B-Application O B-Version O O O O B-Developer O O O O O O O
+O O
+O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application O B-Abbreviation O O B-Citation O
+B-Application I-Application I-Application O O O B-ProgrammingEnvironment B-Version O B-Application B-Version O B-Application B-Version O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-OperatingSystem B-Version B-Extension O O O O O O O O O O O O O O O O O
+B-Application O O O B-ProgrammingEnvironment O B-Version O O O O O O O O O O O O O B-URL O O
+O O O O O B-Application O O O O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment O O O
+O O O O O B-Developer B-Application I-Application O O B-Version O
+O O O O O O B-PlugIn I-PlugIn O O B-Developer O O O B-Application B-Citation I-Citation I-Citation I-Citation I-Citation O
+O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O
+O O O O O B-Application O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Application B-Citation O O O O O O O O O
+O O O B-ProgrammingEnvironment O B-Application I-Application O O O O O O O B-Application I-Application O
+O O O O O O O O O O O O O O B-Application O B-Version B-Citation O O O O O O O O O O O B-Application O B-Version B-Citation O B-Application I-Application O B-Version B-Citation O
+O O B-Application O B-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName O O O O O O O O O O B-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O B-ProgrammingEnvironment O B-Release I-Release O B-Developer I-Developer I-Developer I-Developer O O O O O O O O B-Application I-Application O B-Application I-Application B-Version O B-Developer I-Developer O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O
+O O O O O B-Application O B-Version B-Citation O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-Application I-Application I-Application B-Version O B-Developer O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O
+O O O O O B-Application O O B-Version B-Citation O O O O O O O O O
+O O O O O O B-ProgrammingEnvironment O O B-Version O O B-ProgrammingEnvironment O O B-Release O O
+B-Application O O O B-Version O O B-ProgrammingEnvironment O O O B-Version O O O O O O O
+O B-PlugIn B-ProgrammingEnvironment O O O O O O B-URL O
+O O O O O B-Developer B-Application B-Release O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application I-Application B-Version B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application B-Version O B-URL O O B-Application I-Application I-Application O O B-Version B-Citation I-Citation I-Citation I-Citation I-Citation O O O O B-Application B-Citation O
+O O O O O O O O O O O O O O O O B-Application I-Application I-Application O O B-Application B-Version O B-URL O O
+O O O O O B-Developer B-Application O O O B-Version O O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O
+O O O O O O O O O O O O O O O O B-Developer B-PlugIn I-PlugIn O O O O O O O B-ProgrammingEnvironment O O O O O O O O O O O
+O B-Developer B-Application I-Application O B-Version O O O O O O O
+O O B-Application O O B-Version O B-Developer I-Developer I-Developer O B-URL O O O O O O O O O O O O O O O O O
+O O O O O O B-Application O B-Version O B-Developer O O O O O O O
+O B-PlugIn O O O O B-ProgrammingEnvironment O O O O O O B-Citation O
+O O O O O O B-Developer B-Application I-Application O B-Version O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-Application B-Version B-Citation O
+B-Application O O O B-OperatingSystem O B-OperatingSystem O B-OperatingSystem O O O O O O B-ProgrammingEnvironment O O O O O O O O O O O O
+O O O O O B-ProgrammingEnvironment O O O O B-SoftwareCoreference O O O O O B-Application O B-URL O
+O O O O O O O O B-PlugIn O O B-Citation O B-ProgrammingEnvironment B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-AlternativeName I-AlternativeName I-AlternativeName B-Citation O
+B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O
+O O O O O O O O O O B-Application B-Version O B-URL O O
+O O O O O O B-Application O B-Developer B-Application B-Release O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-Application B-Citation O B-Application B-Citation O
+O O O O B-PlugIn O B-URL O O O O O B-PlugIn I-PlugIn I-PlugIn I-PlugIn B-Citation O O O O O O O B-ProgrammingEnvironment O O O O O O O
+O O O O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O O O O O
+O O O O O B-Application B-Version O B-Developer O O O O O O O
+O O O O O O O B-Application I-Application O B-Version O B-Application O B-Developer B-Application I-Application O B-OperatingSystem O O B-Version O O O O O O O O O O O O O O O O
+O O O O O O O B-Application O O B-OperatingSystem O O B-Version O B-Developer I-Developer I-Developer O O
+O O O O O O O O O O O O O O O O O B-Developer B-Application B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O
+B-Application O B-ProgrammingEnvironment O B-Version O O O
+O O O O B-Developer B-Application I-Application B-Version O B-Developer B-Application I-Application B-Version O B-OperatingSystem O B-Developer I-Developer I-Developer O O O O O O
+O O O O B-Application O O O O O B-URL O O O O O O O O O O O O O O O O B-Application I-Application I-Application O O O O
+B-Application I-Application O B-OperatingSystem O O B-Version O O O O O O O O O O
+O O O O O O O O O O O B-Application O O B-Version O B-Citation O
+O O O O B-Application O B-Extension B-Version O O O O O O O O
+B-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn O B-Abbreviation B-Citation O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-PlugIn I-PlugIn O B-Application B-Version O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn O B-Abbreviation O B-Citation O
+O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O
+O O O O O O O B-ProgrammingEnvironment O O O O O O B-Application I-Application O O O O B-URL O O B-Citation O O
+B-Application O O O O O O O O B-License I-License I-License I-License O O B-Version O O O O O O O O O O O O O O O B-URL O O
+O O O O O O O O O O O O O O O O O B-Application O B-Developer O B-Version O O O O O
+O O O O O O O O O O O O O O O
+B-Application O O O O O O O O O O O B-OperatingSystem O B-OperatingSystem O B-URL O
+O O O O O O O O O O O O O O O O O O O O O B-PlugIn O B-Version O B-PlugIn O B-Version B-Application O O O O
+O O O O O O O O O O B-Application O B-Developer O O O O O O O O O O O O O O O B-Application I-Application I-Application O B-Citation O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn O O O B-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn O O O O O O O O O O B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Application O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Citation O O O O O O O B-Application O O O O O O O O O O O O O O O O
+O O O O B-Application O B-Version O B-Application I-Application I-Application O B-Citation O
+O O O O O O O O O B-Application O B-Version B-Citation O
+O O B-Developer B-Application B-Version O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment B-Release I-Release B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application O O O O B-Version O B-Developer I-Developer O O O O O O O O O B-Application O B-Extension O O O B-Version O B-Developer O O O O O O O O O
+O B-Application O O O B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O
+O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O B-Application O O O O O O O O O O O O O O O O
+O O O O O B-ProgrammingEnvironment O B-Citation O O B-PlugIn O B-Citation O
+O O O O O O O O O B-Developer B-Application I-Application I-Application O O O B-Version O O O O O O
+O O O O O O O O B-Developer B-Application B-Release O O O O O O O B-Developer B-Application I-Application O B-Version O
+O O O O O O O O O
+O O O O O B-ProgrammingEnvironment O B-Version O O O O O O B-Application O B-Version O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-PlugIn O O B-Version I-Version I-Version O B-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application O B-Version B-Citation O
+O O O O O B-Application B-Version O B-Developer O O
+O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O O O O O O O O O O O O O O B-Application B-Version O O O O O O O O
+O O
+O O O O O O O O O O O B-Application B-Version O O B-Developer I-Developer O O
+O O O O O B-Developer B-Application I-Application B-Version O B-Developer I-Developer B-Release O B-Citation O
+O O O O O O O O O O O B-Application I-Application I-Application O B-Abbreviation O B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O B-ProgrammingEnvironment B-Citation O B-Application B-Citation O O O O O O O O
+O O O O O O B-Application O B-Developer I-Developer I-Developer I-Developer O O O O O O O O B-ProgrammingEnvironment O B-Release I-Release O B-Developer I-Developer O O O O O O O B-Application O B-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O
+O O O O O B-Application B-Extension I-Extension O O O O B-Version O O
+O O O O O B-Application O B-Extension O O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O O B-OperatingSystem O O B-Application O O B-Version O B-Developer I-Developer I-Developer O O O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O
+O O B-PlugIn O O O O O B-OperatingSystem O O O O O O O B-OperatingSystem O O O O O O O B-Application O O O O O B-Developer B-OperatingSystem O B-OperatingSystem I-OperatingSystem I-OperatingSystem O
+O O O O O O O O O O O O O O B-PlugIn O O B-Application O B-Version O O O O O O O O O O O
+O O O O O O B-Application I-Application B-Version B-Citation O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-Application B-Version O O B-Version O B-URL O O B-ProgrammingEnvironment B-Version O B-Release I-Release O O B-Developer I-Developer I-Developer I-Developer I-Developer O O
+O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O B-Version B-Citation O
+O O O O O O O O O O B-Application O O O O O O O O O O O O B-Application B-Extension O O B-URL O O
+O O O O B-Developer B-Application B-Version O B-Developer O O O O O O B-Application O B-Extension B-Version O B-Developer I-Developer O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O B-Developer B-Application O B-Version O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O B-Developer O O O O O O O O B-Application O B-Developer I-Developer O O O O O
+O O O O O B-Application B-OperatingSystem B-Version O B-Version O
+O O O O O O O O O O O O O O O O B-Application B-Citation O O O O O B-Application I-Application B-Version O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-URL O O O O O O
+O B-ProgrammingEnvironment O B-PlugIn B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Application O B-Version B-Citation O
+O O O O O O O O O O O O O O B-Application O B-Version O O O B-Citation O
+O O O O B-Application O O B-Version O O O O O O O O B-PlugIn O B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-OperatingSystem O O B-Developer O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Application B-Version O B-Developer I-Developer O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn B-Version B-Citation O
+B-Application O O O O O O O O O O O O O O B-Application B-Citation O
+O B-Application O B-URL O O B-PlugIn O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application B-Version I-Version O O O B-Developer O O O O O O
+O O O O O B-Application O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-OperatingSystem O O O O O B-Application O O B-Abbreviation O
+O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application B-Version O B-Developer O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-Application B-Version I-Version B-Citation O
+O O O O O O O O O O O O O B-ProgrammingEnvironment O B-Developer O O B-PlugIn O B-URL O O O O O O O O
+O O O O O O O O O O O O B-Application O B-Version B-Citation O
+B-Developer B-Application B-Version O O O O O O O O
+O O O O O O O O O O B-Application I-Application I-Application O O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O B-URL O O O O O O B-ProgrammingEnvironment O B-Developer I-Developer I-Developer I-Developer O O O O O O O B-Release O O
+O O O O O O O O O O O B-Developer B-Application O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-Abbreviation O O B-Version O B-ProgrammingEnvironment O B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O B-Developer B-Application O B-Version O B-Developer I-Developer O O O O O O O
+O O O O O O O O O O O O O O O B-Application B-Version B-Citation O
+O O O O O O O O O O O O O O O O O O O O B-Application O B-Version O B-Developer I-Developer O O
+O O O O O O O O O O O O O B-Developer B-Application O B-Version O O
+B-Application O B-Version O O B-OperatingSystem O B-Developer I-Developer I-Developer O O O O O O O O O O O
+O O O O O O O O O B-Application I-Application I-Application O B-Abbreviation O O O B-Version O B-URL O B-Citation O
+O O B-Application B-Version B-Citation O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application B-Version O B-OperatingSystem O B-Abbreviation O O B-Developer I-Developer O O O O O O O O O O O O B-Application I-Application I-Application B-Version O B-OperatingSystem O B-Developer I-Developer O O O O O O O
+B-Application O B-Developer O O O O O O O O O O B-Extension B-Version O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-OperatingSystem O O B-Developer I-Developer O O O O O O
+O O O O O O O O O B-PlugIn O B-Citation O O O O O O O O O O O O O B-PlugIn I-PlugIn O B-Citation O
+O O O O O O B-Application O B-Application B-Citation O
+O O O O B-Application O B-AlternativeName I-AlternativeName I-AlternativeName O O O O B-URL O O O O O O O O O O O B-ProgrammingEnvironment O O O B-ProgrammingEnvironment B-Version I-Version O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version O O B-Developer I-Developer O O O O O O O O
+O O O O O B-Application O B-OperatingSystem O B-Version O O B-Developer I-Developer I-Developer O O O O O O
+O O O O B-ProgrammingEnvironment I-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Developer B-OperatingSystem O O O O O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment O B-ProgrammingEnvironment O O B-ProgrammingEnvironment O
+B-Application O O O O B-URL O O O B-ProgrammingEnvironment O O O O B-License I-License I-License I-License O B-Version O O O B-Developer B-OperatingSystem O B-OperatingSystem O B-OperatingSystem I-OperatingSystem I-OperatingSystem O
+O O O O O O O O O O O O O O O O B-Application B-Version O O B-Developer I-Developer I-Developer I-Developer O O O O
+B-PlugIn I-PlugIn O O O O O O B-Developer B-OperatingSystem O O O
+O O O O O O O O O O B-Application I-Application I-Application B-Application B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O B-ProgrammingEnvironment B-Version O B-Developer I-Developer I-Developer O O O O O O
+B-PlugIn O O O B-PlugIn O O B-URL O
+O O O O O B-Application O O B-Version O B-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O O O O O O O O O O B-Application O O O O O O O O B-Application O O O O
+O O O O O B-Application B-Version O O O O O O B-Developer I-Developer O O O O O O
+B-ProgrammingEnvironment O O O O O O O B-PlugIn B-Version B-Citation O B-PlugIn B-Version B-Citation O B-PlugIn B-Version B-Citation O
+O O O O O B-Application B-Version O B-Application B-Version O O
+O O O O O O O O O O O O O O O O O O O O O B-Application O O O B-Citation O O O O B-URL O
+O O O O O O B-Application B-Version O O O B-Developer I-Developer I-Developer O O O O O
+O B-Application B-Version B-Citation I-Citation I-Citation I-Citation I-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O
+O B-Application O O O O O O O B-URL O B-URL O
+O O O O O B-Application O B-URL O O O B-Application B-Version O O O O O O O O B-URL O O
+O O O O O O B-ProgrammingEnvironment O O O O B-PlugIn O B-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-ProgrammingEnvironment O O O O O O B-License B-Version O O O O O O O O O O O O O O O O B-PlugIn O O O O B-URL O
+O O O O B-Application B-Release O O O O B-Citation O O O O O O O O
+O O O B-PlugIn O B-Version O B-URL O O O B-ProgrammingEnvironment B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O O O O
+O O O O O O O O O O B-Application B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O
+O O O O O O B-Application B-Version O B-Application B-Version O
+O O O O O O O O O B-Application B-Version O O O O O O O O O O O O O O O O O O B-Citation O
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Application B-Version O B-Application O O O O O O O
+O O O O B-Application B-Version B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-PlugIn I-PlugIn B-Citation O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-Application B-Version B-Citation O O O O O O O O O O
+O O
+O O O O O O O O O O B-ProgrammingEnvironment O O O O O O O B-PlugIn I-PlugIn I-PlugIn O B-URL O B-Citation O
+O B-ProgrammingEnvironment O B-PlugIn O B-URL O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Application I-Application O B-Version O B-Developer O O O O O O B-Developer B-Application O
+O O O O O O B-Developer B-Application I-Application O B-Version O
+O O O O O B-Application B-Version B-Extension O
+O O O O O O O O O O O B-Application O B-Version O B-Developer O O O O O O O O
+O O O O O O O O O B-Application B-Version O O O O O O O O O B-URL O O
+B-Developer B-Application O B-Version O B-Developer O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Application I-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O
+O O O O O B-Application O O B-Version O O B-OperatingSystem O
+O O O O O B-Application O B-Extension B-Version O B-Developer O O O O O O O O O
+O O O O O B-Application O B-Version O B-OperatingSystem O O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O B-Application O O O O O O O B-Application O O B-Developer I-Developer I-Developer O B-URL O O
+O B-SoftwareCoreference I-SoftwareCoreference B-Citation O O B-URL O O O O O O O O O O O O O O O O B-Application O
+O O O O O O O O B-Developer B-Application I-Application B-Version O
+O O O O O B-Application B-Version O B-Citation O O O O O O O O O O O O O O O O O O O O
+B-Application O O O O B-License I-License O B-Version O O O O O O B-URL O
+O O O O O O O O O O O O O O O O O O O O O O B-Developer B-Application B-Version O B-OperatingSystem O B-Developer I-Developer O O O O O O O O
+O O O O B-Application O B-Version O B-Developer B-Release O O B-ProgrammingEnvironment O B-Version O B-URL O O
+O O O O B-Application O B-Version O B-Developer O O O O O O O
+O O O O O O O O B-Application O B-Version B-Citation O O O O O O
+O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O B-Application B-Citation O B-Application B-Citation O B-Application B-Citation O
+O O O O O B-Developer B-Application B-Extension O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Developer B-Application O B-Application O
+O O O O O B-OperatingSystem B-Version O B-Version O B-Version O B-Version O O
+O O O O O B-Application B-Version O B-Developer O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O B-Application O B-OperatingSystem O B-Application O O B-Version O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-Application B-Citation O B-ProgrammingEnvironment O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O O
+O O O B-Application O B-OperatingSystem O B-Application I-Application I-Application O O O B-OperatingSystem O O O B-Application I-Application I-Application O
+B-Application O O O O O O O O B-License I-License I-License I-License O B-Version O O O O B-Application O B-URL O O O O O O
+O O O O O O B-Application O B-Version O O B-Developer I-Developer O O O O O O O O O O O O O O
+O O O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O B-Application O B-Developer I-Developer I-Developer I-Developer O O
+O O O O O B-Application O O O O B-Version O B-Developer O O O O O O O
+B-PlugIn O O O O B-URL O O O O O O O O O O O O O O O O O O O O B-License I-License I-License I-License O O B-Version O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Application B-Extension I-Extension O O B-Developer I-Developer O O O O O O
+O O O O B-ProgrammingEnvironment O O O O B-Application I-Application I-Application O B-Abbreviation O O B-Version O O O O O
+O O O O O O O B-ProgrammingEnvironment O B-Developer O O B-PlugIn B-Citation O B-PlugIn I-PlugIn B-Citation O
+O O O O O O O O B-Application O O B-Developer B-Application I-Application B-Version O B-Developer I-Developer O O
+B-Application O O O O O B-ProgrammingEnvironment O O O O O O B-URL O
+B-Application O B-Version B-Citation O O O O O O O O O O
+O O O O O O O B-ProgrammingEnvironment O O O B-Release I-Release O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-Application B-Version O B-Developer O O
+O O O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O O O O O
+O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O O O O O O
+O O O B-Application I-Application I-Application I-Application I-Application O B-Application O B-OperatingSystem O O B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O O
+O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O O B-URL O O O B-Application O O O B-URL O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-Application O O O O O B-Application O B-Version O O B-Developer O B-Release O O O O O O O O O
+O O O O B-Application I-Application B-Version O B-OperatingSystem O B-Application O B-Developer I-Developer I-Developer O O
+O O O O O B-Application O O O O O O O B-Application O B-URL O O O O O O B-Application O O O O O O O O O O O
+O O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O
+B-Application I-Application I-Application B-Version O O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O O B-Release I-Release O B-Developer I-Developer O O O
+O O O O B-Application B-Citation O B-URL O O O O O O O O
+B-PlugIn O O B-ProgrammingEnvironment O O O O O O O B-License I-License I-License O B-License B-Version O O O O O O O B-PlugIn O O B-Citation O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation B-Citation O
+O O O O O O O B-PlugIn B-ProgrammingEnvironment O B-Citation O
+O O O O O B-Application O O O O B-Application O B-Version O O
+O O
+O O O O O O B-ProgrammingEnvironment O O B-PlugIn O B-Citation O B-Citation I-Citation I-Citation O
+O O O O O O O B-Application O B-Version O B-Developer O O O O O O O
+B-Application B-URL B-Application B-URL B-Application B-URL B-Application B-URL B-Application B-URL B-Application O B-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName O B-URL B-Application B-URL B-Application B-URL B-Application B-URL
+O O O O O B-Developer B-Application O B-Version O B-Developer I-Developer O O O O O O B-URL
+B-Application O B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O O O O O O O O O O O B-URL O O
+O O O O O B-Application B-Version O B-Application I-Application O O B-Developer O O
+O O O O B-Application O B-Version O B-ProgrammingEnvironment O
+O O O O B-Application O O O O B-License I-License B-Version O O O O O B-URL O
+O O O O O B-Application B-Version B-Citation O
+O O O O O O O O B-Application O B-Version O O B-Developer O B-URL O O
+O O O O O O O O O O O O O O O O B-Application O O O O O B-Application B-Version O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Extension I-Extension I-Extension B-OperatingSystem B-Version O B-Version O O O O O O B-Application B-Citation O B-URL O O
+O O O O O O O O O O O O O O B-Application B-Version B-Citation O
+O O O O B-Application B-Citation O O O B-ProgrammingEnvironment O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Developer B-Application I-Application O B-OperatingSystem O O B-Version O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Developer B-OperatingSystem B-Version O B-Version O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application O O O O O B-URL O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O O O O O O O O O O O O B-Application O B-Version O O O O O
+O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-Version O O B-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-Application O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Citation O O O O O O O O O O
+B-Application B-Version B-Citation O O O O O O O O O O O O O
+O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Abbreviation B-Version O O
+O O O O O B-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-Version O O
+O O O O O O O O O B-Application B-Version B-Citation O O O O O O O O O O O O O O
+O O O O O B-Application O O B-OperatingSystem O B-Version O
+O O O O O B-Application I-Application O B-Version O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O
+O O B-Application O B-AlternativeName I-AlternativeName I-AlternativeName O B-Citation O O O O O O O O O O O O O
+O O O O B-Application O O B-Version O B-URL O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-ProgrammingEnvironment I-ProgrammingEnvironment I-ProgrammingEnvironment O B-Application O O O O O O O B-OperatingSystem O O B-OperatingSystem B-Version O B-OperatingSystem B-Version O B-OperatingSystem B-Version O B-OperatingSystem B-Version O O
+O O O O O O O B-ProgrammingEnvironment O O B-Citation O O B-PlugIn I-PlugIn I-PlugIn O B-Version B-Citation O O O O O O O O O O O
+B-Application O O O O B-ProgrammingEnvironment I-ProgrammingEnvironment O B-OperatingSystem O O
+O O O O O O O O O O O O O O O O O O O O B-Application I-Application O O O B-Version O B-Developer I-Developer O O
+O O O O O O O B-Application I-Application I-Application I-Application O O B-Version O B-Developer O O O O O O O O
+O O O O O O O B-Application B-Version O B-Application B-Release O
+O B-Application O B-Version O O O O O O O O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O B-Application O O O O O O O O O O B-Application B-Citation O
+O O O O O O B-Application B-Version O B-Developer I-Developer O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application O O B-Version O B-OperatingSystem O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O B-Application O B-Version O B-Developer O O O O O O O B-Application O B-Release O B-Developer I-Developer O O O O O O
+O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Version O B-Developer I-Developer O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer O O
+O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O
+O O O O O O O O O B-Application O O O O O B-Application O B-Citation O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O
+O O O O O O B-Application O O O B-Version O O O O O O O O O O O O O O O O O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O B-Developer B-Application O B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O B-Application B-Version O B-URL O O O O O O
+O O O O O O O B-PlugIn O O O O O O B-License O B-Version O O O O O O O
+O O O O O B-Developer B-Application I-Application O B-Version O
+O O O O O O O O O O O O O O B-PlugIn B-Citation O B-Application B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Application O B-Version O B-Developer O O
+O O O O O O B-Application I-Application O B-Citation O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Citation O
+O O O O B-Developer B-Application I-Application B-Version O
+O O O O O O O O O O O O O O O O O B-Application B-Version B-Citation O
+O O O O O O O O O O O O O O O O O O O B-PlugIn B-ProgrammingEnvironment O O B-Citation O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-Application O B-Extension O O B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-ProgrammingEnvironment O B-PlugIn B-Citation O
+O O O O O B-Developer B-Application B-Version I-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O
+B-Application O O O O O O O O B-License I-License I-License I-License O B-Abbreviation O O B-URL O
+O O O O O O O O B-Application I-Application I-Application O B-Developer O O O O O O O B-Citation O
+B-Developer B-Application B-Version O O B-Developer I-Developer O O O O O O O
+O O O O O O O O O B-PlugIn I-PlugIn I-PlugIn O B-Citation O B-ProgrammingEnvironment O B-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Application B-Version O B-Application B-Version O O O O O O O O O O O O O O O
+O O O O O B-Application B-Version O B-Developer O O O O O O O O B-Application B-Version O
+O O O O O O O O O O O O O O O B-Developer B-Application I-Application O B-Version O
+O O O O O B-Application O B-Version O O O O O O O O O O O O O O O O O O O O B-Citation O
+O O O O O O O B-PlugIn O O O B-Developer I-Developer I-Developer I-Developer B-Citation O O O O O O B-Application O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Developer O B-Release O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O O O O O O O O O O O O B-Citation O
+O O O O O O O B-Application O O O B-Version O B-Developer B-Application O B-Version O
+O O O O O O O O O O B-Application I-Application I-Application O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O B-URL O O
+O O O O B-Application O B-Version O B-Application O B-Version O O O O
+O O O O O O O O O O O O O O B-PlugIn O B-Version O O O O O B-Citation O B-Application O
+O O O O O O O O B-Application B-Citation O B-Application B-Citation O
+O O O O O B-Application O B-Version B-Citation O
+O O O O O B-Application I-Application I-Application O B-Abbreviation O O B-Version O
+O O O O O O O B-Application B-Version B-Citation O O O O O O O O O O O O O O O O O O
+O O O O O B-Application B-Version O B-Application O B-OperatingSystem B-Version O
+O O O O O O O O O O O O O O O B-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn O B-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn O B-Abbreviation O O O O O O O O O O O O O O O O O O B-Citation O
+B-Application O O B-OperatingSystem O B-OperatingSystem O O O O O O O O B-URL O O
+O O O O O O O B-Application O O B-Version O B-Developer I-Developer O O O O O O O O
+B-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O O O B-ProgrammingEnvironment B-Version B-Citation O B-ProgrammingEnvironment I-ProgrammingEnvironment B-Citation O
+O O O O O O O O O O O O B-PlugIn O O O O O O B-Application B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version I-Version B-Developer I-Developer I-Developer I-Developer O O O O O O
+B-Application I-Application O O B-Version O B-Version O B-Developer O O O O O O O O O O O O
+O O O O O O O O O B-ProgrammingEnvironment B-PlugIn I-PlugIn B-Citation O
+O O O O O O O O O O B-Application O B-Version B-Citation O
+O O O O O B-Application B-OperatingSystem O B-Version B-Citation O
+O O O O O O O O O O O O
+O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O
+O O O O O B-Application I-Application I-Application O O O O O O O O O O O B-URL O O O O B-Application O O O O O O O O O O O O O O O O O O O O O O O O O O B-URL O O
+O O O O O O O O O O O O O O O B-Application O B-Version O O O O B-Developer I-Developer O
+O O O O O B-Application O O B-OperatingSystem O O B-Version B-Developer O O O O O O O O O O O O O B-Application I-Application O B-OperatingSystem O O B-Version I-Version B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O
+B-Application I-Application O B-Version O O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O
+O B-SoftwareCoreference O O O O O O B-OperatingSystem O B-OperatingSystem O O B-OperatingSystem O O O O O O O O O B-License I-License O B-URL O O
+O O O O O B-Application O O B-OperatingSystem O O B-Version O O O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O
+O O O O O O B-Application B-Version O O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-Application B-Version O O O O O O O O O O O O O O O O O O O O O O B-Application O O O O B-URL O O O B-Application B-Version O O O O O O O
+O O O O O O B-Developer B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O B-Version O
+O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O
+B-Developer B-Application I-Application O O B-Version O B-OperatingSystem B-Citation O O O O O O O
+O O O O B-Application O O O O O B-URL O O O O O O B-OperatingSystem O B-OperatingSystem O B-OperatingSystem O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O B-URL O B-Citation O
+O O O O O O O B-Application I-Application I-Application I-Application I-Application O O B-Abbreviation O B-Version O O
+O O O O O O B-Developer B-Application I-Application B-Version O B-Developer O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O B-Application I-Application B-Version O B-Developer O O O O O O O O O O O O B-Application B-Version O O B-Developer I-Developer I-Developer O O O O O O O
+O B-Application O O O O O O O B-License I-License B-Version O O B-Application O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-Application B-Release O O O O B-Version O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Application O O O B-OperatingSystem O O B-Version O O O O O B-Developer I-Developer I-Developer O O
+O O O O O O O B-Application O B-Extension B-Version O B-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O B-Application O O O O B-PlugIn O B-Citation O
+O O O O O O O B-Application O O O O O O O O O O O O B-Application O B-Version O O
+O O
+O O B-Application O O O O O O O B-URL B-Application O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment O O O B-Developer B-Application O O O B-Application O O O O O O O O O B-License B-Version O O O B-Application O B-URL O
+O O O O O O O O O O O O O O O B-Application B-Version B-Citation O
+O O O O O O O B-Developer B-Application B-Version O O
+O O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O O O O
+O O O O O O O O O B-Application O O B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O B-Application O B-Version O O B-Developer I-Developer I-Developer O O O O O O O O B-Application O B-Version O B-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-Application I-Application B-Version O O O B-Developer I-Developer I-Developer O O O O O O O O O O O O
+O O O O O O O O O O O B-Application I-Application I-Application I-Application O O O B-Version O B-Developer I-Developer I-Developer O O
+O O B-Application B-Version O B-OperatingSystem O B-Developer I-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O
+O O O O O O O O B-Application O O O B-Version O B-Developer I-Developer I-Developer O O O O O O O O O
+O O O O B-Developer B-Application O B-Version O B-OperatingSystem I-OperatingSystem B-Version O O B-Developer I-Developer O O O O O O B-URL O O
+O O O O O O O O O O B-Application B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application B-Version I-Version B-Citation O
+O O O O O O O O O O O O O B-PlugIn O B-ProgrammingEnvironment O B-Citation O
+O O O O O B-Application O O B-Version B-Citation O
+O O O O O O O B-PlugIn O O B-Application B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O B-Application O O O B-Version O B-Developer I-Developer I-Developer O B-URL O O
+O O O O O O O O O B-Application B-Version B-PlugIn I-PlugIn I-PlugIn O O O O O O O B-Citation O
+O O O B-PlugIn I-PlugIn I-PlugIn B-Citation O B-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-Developer B-Application I-Application B-Version O
+B-PlugIn O O O O O O O O O O O B-Application B-Version O
+O O O O O O O B-ProgrammingEnvironment O O O O B-ProgrammingEnvironment O O O O O B-PlugIn O B-PlugIn O B-PlugIn O O O O O B-URL O O O O O
+O O O O O B-Application O O B-Version O B-Developer I-Developer I-Developer O O O O O O O O B-OperatingSystem O O
+O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Developer B-Application I-Application O B-URL O O O O O O O O O O O O O
+O O O O O O B-Developer B-Application O B-Version O B-OperatingSystem O B-Developer I-Developer O O O O O O O
+O O O O O O O B-Application B-Citation O B-Release I-Release I-Release I-Release O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-Application B-Version B-Citation O B-Application B-Citation O
+O O O O O O O O O O B-Application B-Version B-Citation O O O O O
+O O O O O B-Application O O B-Version O B-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O
+O O B-Application B-Version O B-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application I-Application B-Version O B-Developer I-Developer I-Developer O B-Release O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-Application I-Application I-Application O B-Version O B-Application O B-Version O
+O O O O O O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O
+O B-Application O O O O O O O B-ProgrammingEnvironment O B-Developer I-Developer O O O O O O O O O O O O O O B-Version O O O B-Application I-Application I-Application O B-Abbreviation O O B-Version O B-Citation I-Citation I-Citation O
+O O O O O O O O O O O B-Developer O B-Application O B-Extension O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O
+O O O O O O O B-Application I-Application O O O O O B-Application O B-Version O B-Application O B-Version O B-Application O B-Version O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment B-Version O B-ProgrammingEnvironment O B-ProgrammingEnvironment O B-ProgrammingEnvironment O O O O B-Application O O O O O O O O O B-License O O O O O O O O O O O
+O O O O O O O O O O O O O B-Application B-Version O B-Developer O O O O O O O
+O O O O O O O B-Application B-Version O O B-OperatingSystem O
+O O B-Application O B-Version B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+B-Application O O O O O O O O B-License I-License O O O O O O B-Application O B-URL O O O O O O O O B-URL O O
+O B-ProgrammingEnvironment O O B-PlugIn I-PlugIn I-PlugIn O O O O O B-URL O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version B-Citation O
+O O O O O O B-Application I-Application I-Application I-Application I-Application O O O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O
+O O O O B-Application O O O O B-URL O O O B-OperatingSystem O O O O O O O O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment O B-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Application O O B-ProgrammingEnvironment O O O B-Version O
+O O O O O O B-Application B-Version O O O O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O B-Application B-Version B-Citation O
+O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn O B-Abbreviation O O O O O O O O O O O O O O O O O O O O O O O O B-Citation O
+O O O O O B-Application O O B-Extension B-Version O O
+O O O O O B-Developer B-Application B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O
+B-Developer B-Application O B-Application I-Application I-Application I-Application I-Application I-Application O B-Application O B-Version O O O O O O O O O O O O O O
+O O O O O B-Application I-Application B-Release O O B-Developer I-Developer O O
+B-Application O O B-Developer B-Application I-Application O B-Version O O O O O O O
+B-Application B-Version O B-Application B-Version O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Application I-Application O O B-Version O O B-Application O B-Developer I-Developer O O O B-Application O B-Developer I-Developer O O O O B-Release O B-URL O O O O O O O O O O
+O O O O O B-Developer B-Application I-Application B-Version B-PlugIn I-PlugIn O
+O O O O O B-ProgrammingEnvironment B-Version O B-PlugIn B-Version O B-URL O O
+O O O O O O O O B-Developer O B-ProgrammingEnvironment I-ProgrammingEnvironment O B-Release O O B-Developer I-Developer I-Developer O O O O O O O O
+B-Application O O B-OperatingSystem O B-OperatingSystem O O O O O O B-URL O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-SoftwareCoreference I-SoftwareCoreference I-SoftwareCoreference O O O O B-URL O O O O O O O B-Application I-Application O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O
+O O O O O O B-PlugIn O O B-Version B-Citation O
+O O O O O O O B-Application O B-Extension B-Version O
+O O O O O O O O O O O O O O O O O O
+O O O O O B-Application I-Application B-Version O O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O O B-URL O O O O O O O O O B-Application O O B-URL O O
+O O O O O O B-ProgrammingEnvironment O B-Version O B-Developer I-Developer I-Developer I-Developer O B-URL O O O O O O O O O O O O O O
+O O O O O O O B-ProgrammingEnvironment O B-Version B-Citation O
+O O O O O B-Developer B-Application O B-OperatingSystem O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version B-Citation O B-Application B-Citation O O O O O O O O O O O O O O O
+O O O O O B-Application I-Application O O B-URL O O B-ProgrammingEnvironment O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Application I-Application B-Version O B-Developer O O O O O O O O O O O O O O O O O B-Application B-Version O B-Developer I-Developer O O O O O O O O
+B-Application O B-Version O O O O O O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O O B-Release I-Release O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O
+B-Application O O O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-URL O O
+O O O O O O O O B-Application I-Application B-Version O B-Developer I-Developer I-Developer O O O O O O
+O O O O O B-Application O O B-Version O O B-Version O B-Developer I-Developer I-Developer O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Application B-Version O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application O O O O B-Version O B-Developer I-Developer I-Developer O O O O O O O O B-Developer B-Application B-Version O B-Developer I-Developer O O O O O O O O O
+O O O O O O B-SoftwareCoreference O O O O B-Application O B-URL O
+O O O O O B-Application I-Application I-Application I-Application I-Application O B-Developer B-Application O O B-Version O B-Developer I-Developer I-Developer O O O O O O
+O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O O
+O O O O B-ProgrammingEnvironment O B-Version B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application I-Application I-Application O B-Abbreviation O O O B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-Application B-PlugIn O O O O O O O O O O O O O O O O O O O O B-Citation O
+O O O O O B-Developer B-Application O B-Version O
+O O O O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version B-Citation O O O O O
+B-Developer B-Application B-Version O O O O O O
+O O O O O O B-ProgrammingEnvironment B-Version O B-URL O O
+O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-URL B-Citation O
+O B-PlugIn O O O O O B-Citation O O O O O O O O O O O B-Application B-Version O O B-URL O O
+O O O O O O B-Application O B-Citation O B-URL O O
+O O O O O B-Application O B-Version O B-OperatingSystem O
+O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O O O O B-Version O B-Developer O O O O O O O O B-Application O O B-Version O B-Application O O B-OperatingSystem O B-Developer I-Developer O O O O O O O O
+B-Application O O O B-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O B-Application O B-Application O O O O B-Application B-Citation O
+O O
+O O B-Application I-Application I-Application I-Application I-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Developer B-Application I-Application I-Application O B-Application O B-Developer I-Developer I-Developer I-Developer O O O O
+O O O O O B-PlugIn O O O O O B-URL O O O O B-OperatingSystem O B-OperatingSystem O O O O B-ProgrammingEnvironment O O O O B-ProgrammingEnvironment O B-PlugIn O B-PlugIn O B-PlugIn O O O O O B-PlugIn I-PlugIn O B-PlugIn I-PlugIn I-PlugIn O B-PlugIn O O O O O O O B-License I-License O
+O O O O O O O O O O O O O B-Application O B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application B-Version O O O O O B-PlugIn O O B-PlugIn O O
+O O O O O O O O O O O O O B-Application O O O O B-Version O B-Developer O O O O O O O O
+O O O O O O O B-PlugIn O B-PlugIn O B-PlugIn I-PlugIn O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn O B-Abbreviation O B-Citation O
+O O O O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer O O O O O O O O O
+B-Application O O O O O B-URL O O O O O O O O B-URL O
+O O O O O O O B-Application I-Application I-Application O B-Application B-Version O B-Developer I-Developer O O O O O O O O O O B-ProgrammingEnvironment B-Version O O B-Developer O O O O O O
+O O
+O O O O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O
+O O O O O O O O O O O O O O O O O O B-Application I-Application O O O B-Version I-Version O B-Developer I-Developer O O O O O O O
+O O O O O O B-Developer B-Application B-Version O O
+O O O O O O O O B-Application O O B-Version O O O B-Application O O B-Version O O O
+O O O O O O B-Application B-Version O B-Developer I-Developer O O O O O O
+O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O B-Application O B-Version O B-Developer O O O O O O O O O
+O O B-Application O O B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Developer B-Application O O O O O O O B-Developer B-Application O
+O O O O O O O O O O O O O O O O O O O O B-Application O O B-Version O B-Developer I-Developer O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Application O B-Application O B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Application O B-Version O O B-Version O O O B-Developer I-Developer I-Developer O O
+O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application O O B-Version O O O O B-Developer I-Developer I-Developer O O O O O O O
+O O O O O O B-Application B-Version O O B-Developer I-Developer I-Developer O O O O O O
+O O O O O O O B-Application I-Application I-Application B-Version O O B-URL O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer O O O O O O
+O O O O O O O B-Application O O B-Developer I-Developer I-Developer O O O O O O O B-Version O O O O O O O B-Developer B-Application O O O B-Version O
+O O O O O O O O O B-Application B-Version O B-Developer O O O O O O O
+O O O O O B-Application O B-Extension B-Version O O O O O O O
+O O O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer O O B-Application B-Version O
+O O O O O O O B-ProgrammingEnvironment O O O O B-Version B-Citation O
+B-PlugIn O O O O O B-ProgrammingEnvironment O O O O O O O O B-OperatingSystem O B-OperatingSystem O
+O O O O O B-Developer B-Application B-Version O O B-OperatingSystem O B-Developer I-Developer I-Developer O O O O O O O O B-Application O O
+O O O O O O O O O O O O O O O O O O O O O O B-Application O O B-Version O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application O O B-Version O O O O O O O O O O O O O B-Application I-Application O O O O O O O O O
+O O O O O O O O O O O O O O O B-Application B-Citation O O O O O O O B-Developer B-Application O
+O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Application I-Application I-Application O O O B-License I-License I-License I-License O B-Version O B-Application O O O B-URL
+O O O O B-Application B-Version O B-Citation O B-Developer B-Application I-Application B-Version O
+O O O O O O B-Application O B-Version O B-Developer O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O B-Developer O O O O O O O O
+O O O O O O O B-Application B-Version O O O B-Developer I-Developer O O O O O O O O O
+O O B-Application B-Version O O O B-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn I-PlugIn O B-Abbreviation O B-Citation I-Citation I-Citation I-Citation I-Citation O
+O O O O O O O B-PlugIn I-PlugIn O B-Version B-Citation I-Citation I-Citation I-Citation I-Citation O O B-ProgrammingEnvironment B-Version O B-Developer I-Developer O O O O O O O O O O B-OperatingSystem I-OperatingSystem I-OperatingSystem B-Version O B-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O O B-Application B-Version B-Citation O
+O O O O O O O O O O O B-Application O B-Version B-Citation O O O O O O O O O O
+O O O O O O B-Application B-Version O O O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version O B-URL O O
+O O O O O O O O O O B-Application O O O O B-URL O O O O O O O O B-Application O O B-PlugIn B-Citation O O O O O O O
+O O O B-Application O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Citation O
+O B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-Version O B-Developer O O O O O O B-PlugIn O B-Developer I-Developer O O O O O O O O O
+O O O O O O B-OperatingSystem I-OperatingSystem I-OperatingSystem O O O O O O B-Application I-Application B-Citation O B-Application O O O B-Release O B-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application O B-Version O B-Developer O O O O O O O O O
+O O O O O B-ProgrammingEnvironment B-Release O B-Developer I-Developer O O O O O O O O O O O O O O O O O O
+O O O O O B-Application B-Version O O O B-Application B-Version O O O O O O O O O B-PlugIn O O O O O O O O O O O O O
+O O O O O B-Application O B-Version O B-Developer O B-URL O O
+B-Application B-Version B-Citation O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application O B-Citation O B-Application B-Citation O
+O O O O O O O O O O O O O B-PlugIn I-PlugIn B-Application O B-Citation O
+O O O O O O B-Developer B-ProgrammingEnvironment O O O B-PlugIn O B-Citation O
+B-Application O B-Version O O O O O B-Citation O
+B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O
+O O O O O O O B-ProgrammingEnvironment O O B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer I-Developer O O
+O O O O O O O O O O O O O O O O O O O O O O O B-Developer B-Application I-Application I-Application O O O B-Version O O
+O O O O O O O O O O O O O O O O O O O O B-Application I-Application B-Version O B-Developer I-Developer I-Developer O O O O O O
+O O O O O B-ProgrammingEnvironment O O B-Developer I-Developer I-Developer I-Developer O B-Release O O B-Version O O
+B-PlugIn O O O B-ProgrammingEnvironment O O O B-ProgrammingEnvironment O O O O O O O O O O O O B-URL O
+O O O O O O O B-ProgrammingEnvironment I-ProgrammingEnvironment O O O O B-Application I-Application B-Release O O O O O O
+O O O O O O O O O B-PlugIn B-Citation O B-URL O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application O B-Version O O B-Developer I-Developer O O O O O O O O O
+B-Application O O O O O O O O O O O O B-License B-Version O O B-URL O O
+O O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O
+O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-Version O B-Developer I-Developer O O O O O O O O O
+O B-Developer B-Application I-Application I-Application I-Application I-Application I-Application O B-Application O B-Version O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O O O
+O O O O O B-Application B-Version O B-OperatingSystem B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O O B-ProgrammingEnvironment O B-Version O O O B-PlugIn O O O B-PlugIn O O O B-PlugIn O O B-PlugIn O O O O B-PlugIn I-PlugIn O O
+O O O O O O O O O O B-Application O O O O B-Application I-Application B-Version O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Version O B-Developer O O O O O O O O
+O O O O O O B-Developer B-Application I-Application B-Version O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version O B-Citation O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application B-Version O B-Developer B-Application I-Application B-Version O O
+O O O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O O O O B-ProgrammingEnvironment I-ProgrammingEnvironment I-ProgrammingEnvironment O O O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment I-ProgrammingEnvironment I-ProgrammingEnvironment O B-ProgrammingEnvironment I-ProgrammingEnvironment I-ProgrammingEnvironment O O B-Application O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-Application B-Version B-Citation O
+O O O O O O O O O O O B-PlugIn O O B-ProgrammingEnvironment O B-Citation O B-Citation O O O O O O O O O O O B-ProgrammingEnvironment O O B-PlugIn O B-Citation O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Application O B-Version O O O O O O O B-Application O B-Version O O O O O O
+O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Application B-Version O O
+O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+O B-Application O O O O B-Application O B-URL O O O O O O O O O O O O O O O O O O O O O O O O O O
+B-Application O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn O B-URL O O B-Developer B-Application B-Extension O B-Version O O O B-Application B-Version B-Extension O B-Developer O O O O O O O O
+O O O O O O O B-Application O B-OperatingSystem O B-Version O
+O O O O O B-Developer B-Application I-Application B-Version O B-Developer I-Developer O O O O O B-Release O O
+O O O O O O O O O O O O O O O O O B-Application B-Extension B-Version O B-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-Developer B-Application O B-Release O O O O O O
+O O O O O O B-Application O B-Version B-Citation O
+O O O O O B-Application O O O B-Version O O O O O O O O O O O O O O O O O O O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O
+B-PlugIn O O O O O O O O O B-PlugIn B-Citation O B-PlugIn O B-URL O O B-PlugIn O B-URL O O
+O O O O O O O B-Application B-Version O B-Developer O O O O O O O O O B-Developer B-Application B-Extension O B-Version O O
+O O O O O O O O B-ProgrammingEnvironment B-Version O B-Application B-Version O O O O O O O O O O B-License I-License O B-Version O O O O O O O O O O O O O
+O O O O O O O O O B-Application I-Application O O O O B-Application I-Application B-Citation O
+O O O O O O B-Application B-Version O B-Developer O O O O O O O
+O O O O O O O O O O O B-Application O O B-Application O O B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O O O
+O O O O O B-Application B-Extension B-Version O
+O O O O O B-Application B-Version B-Citation O
+O O O O O O B-Application O O B-Version O B-Citation O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-Application O B-Version B-Citation O
+O O O O O O O O B-Application B-Citation O O B-Application O O O O O O O O O O O
+O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O O B-ProgrammingEnvironment B-Version O B-Developer O O O
+O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-Application B-Extension O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O B-ProgrammingEnvironment O O B-Application I-Application O
+O O O O O O O O O O O O O O O O O O O B-Application I-Application O O B-Version O B-Release O B-Developer I-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O B-ProgrammingEnvironment O O
+O B-Application B-Version O O O O O O O O O O O O O O O O B-Application O B-URL O O O O O O
+O O O O O O O O O O O B-Application O O O O O O O O B-Application O B-Application O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer O B-Application B-Version O B-Developer I-Developer B-Release O O
+O O O O O O O O O O O O B-ProgrammingEnvironment O B-PlugIn B-Citation O B-PlugIn B-Citation O
+O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-OperatingSystem O B-Developer I-Developer O O O O O O O O O O
+O O O O O B-Application O B-Version B-Citation O
+O O O O O O O O O O B-Application O O B-Version B-Citation O
+O O O O O O O O O O B-Application O O O O B-Version O B-Developer I-Developer O O
+O O O O O B-Application O B-Version O B-Developer O O O O O O O O O O O B-Application O B-Version O B-Developer O O O O O O O
+O O O O O B-Application O B-Version O B-Developer O O O O O O O O O
+O O O O B-Application O O B-Version B-Citation O O B-Application O O B-Version B-Citation O O O O O O O O O O
+O O O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment B-Release I-Release B-Citation O O
+O O O O O O O O O O O O O O O B-Application B-Version O B-OperatingSystem O B-Developer I-Developer I-Developer B-Release O O
+O O O O B-Application O B-Version I-Version O O O O O O O O O O O O O O O O B-Application B-AlternativeName I-AlternativeName I-AlternativeName O B-Version B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn B-ProgrammingEnvironment O O B-Citation O O O O O O O O
+O O O O O O O O B-Application I-Application B-Version O B-Developer I-Developer I-Developer O O O O O B-Release O O O O O O O O B-ProgrammingEnvironment O O B-Developer I-Developer I-Developer I-Developer O O O O O B-ProgrammingEnvironment B-Version O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-Developer I-Developer I-Developer B-Application I-Application I-Application I-Application O O O O O O B-Citation O
+O O O O O B-Application O O B-Version O O B-ProgrammingEnvironment O O B-Version O
+O O O O O O O O O O O O O O O B-Application I-Application I-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment B-PlugIn I-PlugIn I-PlugIn O B-Developer O B-ProgrammingEnvironment B-Release I-Release O O O O O O O O O O
+O O B-Application O B-Version B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O B-Application B-Version O B-Developer I-Developer O O O O O O O O O O O
+O O O O O B-Application O B-Version O B-Developer O O O O O O O O O
+O O O O B-Application B-Version B-Citation O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Application O B-Application O B-Citation O
+O O O B-Application B-Citation O B-Developer B-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-ProgrammingEnvironment O O B-Developer I-Developer I-Developer I-Developer O O B-Release I-Release O O O O O O O O O
+O O O O O O B-Application B-Citation O O B-Application O O B-Version O O O O B-Application O B-URL O O
+O O O O O O O O B-Application O O O O O O O O O O O B-Application B-Citation O O O O O O O O O B-Application O O O O
+O B-SoftwareCoreference O O O O O B-URL O O B-License I-License I-License I-License O
+O O O B-Developer B-Application I-Application O B-Version B-Citation O B-ProgrammingEnvironment B-Citation O O O O O O O
+O B-ProgrammingEnvironment B-PlugIn O O B-URL O O O O O O O O O O
+O O O O O B-Application O B-Version O B-Developer B-Application I-Application O O O O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-URL O O
+O O O O O O B-Developer B-Application O O O O O O O O B-Developer B-Application I-Application O B-Version O O
+O O O O O O O B-Application B-Version O B-Developer O O O O O O O O
+O B-Application I-Application I-Application I-Application I-Application B-Version O B-Application B-Version O O O O O O O O
+O B-PlugIn O O O O O O O B-ProgrammingEnvironment O B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O B-PlugIn O B-URL O O O O O O O O O O O O O O O O O O
+B-Application O O O O O O O O O B-License O B-Version O O O O O O O O O O B-URL O O O O O B-URL O
+O O O B-Application I-Application I-Application B-Version O O O O O O B-Application I-Application I-Application B-Citation O
+O O O O O O O B-Application O B-Application B-Extension B-Version O B-Developer I-Developer O O
+O O O O O O O O O B-PlugIn I-PlugIn O B-Citation O O O O O O O O O O O O O O B-PlugIn O B-Citation O
+O O O O O O O O O O O B-Application B-Version O B-OperatingSystem O B-Developer O
+O O O O O O O B-Application B-Version O B-Developer O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Developer I-Developer O O
+O O O O O O O B-Application B-Version O B-OperatingSystem O
+O O O O O B-Application I-Application O B-Version O B-Release I-Release I-Release I-Release O B-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn O B-Citation O O B-Application B-Version O
+O O O O O O O O O O O O O O O O O O B-Developer B-Application I-Application B-Release O B-Developer I-Developer O O O O O O
+O B-SoftwareCoreference O O B-OperatingSystem B-Version O B-Version O O O O O O O O O O O O O B-URL O
+O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O O B-Developer I-Developer O O O O O O
+B-Application O O O B-ProgrammingEnvironment O O O O O B-PlugIn O O O O O O O B-Citation O
+O O O O O O O O O O O O O O O O O O B-Application B-Citation O O O O O B-Application I-Application I-Application B-Version B-Citation O
+O O O O O O O O O O O O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O B-Application B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application I-Application I-Application I-Application O O B-Abbreviation O O B-Citation O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Application B-Version O O O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O
+O O O B-ProgrammingEnvironment O O O O O O O O O B-Application O B-URL O O B-Application O B-URL O O B-PlugIn O B-URL O O B-PlugIn O B-URL O O
+O O O O O B-Application B-Version O O O B-Developer I-Developer B-Release O B-Application O O O O B-Version O O O O O O B-Developer I-Developer O O
+O O B-SoftwareCoreference I-SoftwareCoreference O O O O O O O O O O O O O O B-OperatingSystem O B-OperatingSystem O O O O O O B-URL O O O O O O B-License O
+B-Developer O O B-Application I-Application O O B-Application I-Application O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+B-Developer B-Application B-Release O O O O O O O B-Application O B-Version O O O O O B-Citation O
+O O O O O B-Application B-Version O O O B-Developer O O O O O O O O
+O O O O O B-Application B-Version O B-Developer O O B-Developer B-Application I-Application O
+O O O O B-Developer B-Application O O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O O B-Application I-Application I-Application O O O O O B-URL O O O O O O B-OperatingSystem O O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment I-ProgrammingEnvironment I-ProgrammingEnvironment O O O O O O B-PlugIn O O O O O O O O B-PlugIn O O O O O O O O O O B-License O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Abbreviation O B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-Developer O O O B-Citation O O B-Version O B-Application O B-PlugIn O O O O O O O O O O O O O O O O B-Developer O O B-Application O B-PlugIn O O O O
+O O O O O O O O B-Application O O O O O B-Version O B-URL O O
+O O O O O O O O O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Developer O O
+O O O O O O B-PlugIn O O O O B-Application O O B-URL O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O B-Developer B-Application B-Version I-Version O O O O B-ProgrammingEnvironment B-Version O O O O O O O O O B-Application O O O
+O O O O O O O O O B-Application O B-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName O O O B-Developer B-Release O O O
+O O O O O O B-Developer B-Application O O B-Version O B-Developer I-Developer I-Developer I-Developer O O
+O O O O O O O B-PlugIn O B-Version B-Citation O B-ProgrammingEnvironment B-Release O B-Developer O O O O O O
+O O O B-OperatingSystem O B-ProgrammingEnvironment O O O B-ProgrammingEnvironment I-ProgrammingEnvironment O B-ProgrammingEnvironment I-ProgrammingEnvironment O O O O O O O
+O O O O O B-Application O O B-Version O B-Developer I-Developer O O O O O O O
+B-Application O O O O O O O O O O O B-ProgrammingEnvironment O O B-Version O O B-Release O O O B-PlugIn I-PlugIn I-PlugIn O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O B-OperatingSystem O O O O B-OperatingSystem O B-OperatingSystem O
+O O O O O B-PlugIn O O B-Version O B-Application I-Application O O O O O O O O O O O B-Application O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O O B-Developer O O
+O O O O O O O O O O O O O B-Application B-Version O B-Developer I-Developer O O
+O O O O O O O O O O O O O O O
+O O O O B-Application O B-Version O B-Developer I-Developer O O O O
+O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-OperatingSystem O O B-Version O
+O O O O O B-Application B-Version O B-OperatingSystem B-Citation O
+O O O O O O O O O O B-Application B-Version O O B-Application O B-Extension O O B-Version O B-OperatingSystem O O
+O O O O O O O B-Developer B-Application B-Version O B-OperatingSystem O B-Developer I-Developer I-Developer O B-Release O O
+O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O
+O O O O O B-Application O O O O O O O B-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O O O O O O O B-URL O
+O O O O O O B-Application O O B-Version B-Citation O
+O O O O O O O O O O O O O O O B-Application B-Version O B-OperatingSystem O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O B-Application B-Version O O B-Developer O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application O B-Version B-Citation O
+O O O O O B-Application O B-Developer B-Application O
+O O O O O O O O B-Application B-Version B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O
+O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O B-PlugIn O O O B-Application O O B-URL O O O O O O O O O O O
+O O O O O B-Developer B-Application I-Application O O B-Version O O O O
+B-Application O B-Version O B-OperatingSystem I-OperatingSystem B-Version O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application O O O O O O O O O O B-Application O B-Version O
+O O O O O O O O B-Developer B-Application O B-Application O
+O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Citation O O O B-Application B-Version O O B-URL O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O B-Developer B-Application O B-Version O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Citation O B-URL O O
+B-Application O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Extension B-Version O B-Developer I-Developer O O O O
+O O O O O O B-Application B-Version O B-URL O O
+O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O
+O B-PlugIn O O B-Version B-Citation O O O O O O O O
+O O O O O O O O B-Application B-Version O O O O O O O B-Application O B-Version O
+O O O O O O B-Application I-Application B-Version O B-Application O B-Version O
+O O O O O O O O O O B-Developer B-Application I-Application B-Version O O
+O O O O O O B-Application I-Application I-Application I-Application I-Application O O B-Version O B-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O B-Application I-Application I-Application O B-Abbreviation O O B-URL O O O O O B-Application O B-Version B-Citation O B-Citation O
+O O O O O O O O B-ProgrammingEnvironment O O B-PlugIn O O O B-Version I-Version I-Version O O O O O O O O O O O O O O O O
+O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn I-PlugIn O O B-Application B-Citation O
+B-Application B-Version B-Citation O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-Application I-Application I-Application B-Version O O B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O B-Application B-Version O B-URL O O O B-ProgrammingEnvironment B-Release I-Release O B-Developer O O
+O O O O O B-Application O O B-Application I-Application I-Application I-Application I-Application I-Application O O B-Version O O
+O O O B-Application O O O O O O O O O O O O O O B-Application O B-Developer B-Application B-Release O O
+O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O B-ProgrammingEnvironment B-Version O B-Developer I-Developer O O O O O O
+O O O O O B-Developer B-Application I-Application O B-OperatingSystem O B-Version O O O O O B-Developer I-Developer I-Developer O B-Release O
+O O
+O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application O B-Abbreviation O O O O O B-Developer O O O O O O O O
+O O O O O O B-Application B-Version O O B-Developer I-Developer I-Developer I-Developer I-Developer O B-URL O O O B-ProgrammingEnvironment O B-Developer O O O O O O
+B-Application I-Application I-Application O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment I-ProgrammingEnvironment I-ProgrammingEnvironment O B-Application O O B-AlternativeName I-AlternativeName I-AlternativeName O O B-Version O O B-Extension I-Extension B-OperatingSystem O O O O O
+O O O O O O O O O B-Application O B-Version O O B-Developer I-Developer I-Developer O O O O O O O
+O O O O O O O O B-Application I-Application O B-Version O O O O O O B-Application B-OperatingSystem O B-Version O O O O
+O O O O O B-Application B-Version O B-URL O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application O O O B-Version O B-Developer I-Developer O O O O O O O
+O O O O O O O O O O B-Developer B-Application O O O B-Version O O B-Application I-Application I-Application B-Version O O B-Application I-Application B-Version O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-PlugIn O O B-ProgrammingEnvironment B-Version O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Application O O B-PlugIn B-Citation O
+O O O B-Application O O O B-Version B-Developer I-Developer I-Developer I-Developer O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O B-Citation O B-Citation O O O O O O O O O
+O O O O O O O O O O O O O O
+O O
+O B-Application O O O O O B-Application O O O O O O O O O O O O O O O O O B-PlugIn O
+O O O O O O O B-Application O B-Version O B-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-Version O
+O O O O O O O O O O O O O O O O O O O O O O B-PlugIn O O B-Application B-Version O
+O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O O B-Version O B-Developer I-Developer I-Developer O O O O O O O
+O O B-PlugIn O O B-ProgrammingEnvironment O O O O B-PlugIn O O B-URL O O O B-URL O
+O O O O O O B-Application O O O O B-Version O B-Developer I-Developer O O O O O O
+O O O O O O O B-ProgrammingEnvironment O O B-PlugIn I-PlugIn B-Citation O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O O B-PlugIn I-PlugIn I-PlugIn O O O B-Developer B-Citation O
+B-PlugIn O O O O O O B-URL O O B-License I-License B-Version O B-URL O O
+O O O O O O O B-Application B-Version O B-URL O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-PlugIn O O B-Application B-Version B-Citation O
+O O O O O O O O O O O O O O O O O O O
+O O O O B-Application B-Version O O O O O O O B-Application B-Version O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O B-Application I-Application O B-URL O O O O O O O O O O B-PlugIn O O B-URL O O O O O O O O O O
+O O O O B-Application O O B-Version O B-Developer I-Developer I-Developer O O O O O O B-Application B-Release O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version O O B-Developer O O O O O O O O
+O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O B-Application O O B-Version O B-Developer I-Developer O O O O
+O O O O O O O O O O O B-Application B-Citation O B-Application O B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O O O O O O B-Application B-Version O B-Developer I-Developer O O O O O O O O O
+O O O O O O B-Application B-Version O B-URL O O
+O O O O O O O O O O O O O B-Application B-Version B-Citation O O O O O O O
+O O O B-ProgrammingEnvironment O O O B-PlugIn I-PlugIn I-PlugIn O O B-URL O O O O O O O O O O O O O O
+O O O O O O O O O O O B-PlugIn O B-Citation I-Citation I-Citation I-Citation O B-Application B-Version O O
+O O O O O B-Application O B-Version B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O B-Release I-Release O B-PlugIn B-Citation O B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O
+B-Application O B-Version O O B-Developer I-Developer O O O O O O O O O O O O O O
+O O O O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O B-URL O O
+O B-Application O O O O O O O O O O O O O O O B-Application O B-URL O O
+O O O O O B-PlugIn I-PlugIn B-Version B-Citation O O B-ProgrammingEnvironment B-Release I-Release O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O B-Developer B-Application B-Citation O O O O O O O O O B-Application O B-Version B-Citation O O O O O O O
+O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O
+O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O
+O O O O O B-Application B-Version O O O O O O O O O O O O O O O O O O O B-Application B-Version B-Citation O O O O B-Application B-Citation O O
+O O O O B-Application B-Citation O O O O O O O O B-Application B-Citation O B-Application B-Citation O B-Application B-Citation O O B-Application B-Citation O
+O O O O O O B-PlugIn O B-Citation O B-Version O B-ProgrammingEnvironment B-Citation O O O O O O O O O
+O O O O O O O B-Application B-Version O B-Developer I-Developer O O O O O O
+O O O O O O O O B-Application I-Application B-Version O O O B-Version O B-Developer I-Developer I-Developer I-Developer O B-Release O O O O O B-URL O O
+O O O O O O B-Developer B-Application B-Extension O B-Version O O B-Application B-Extension O B-Version O O O O
+O O O O O O O
+O O O O O O B-Application I-Application O O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O B-URL O O B-ProgrammingEnvironment O B-Release I-Release O B-Developer I-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O O O O O O O O O B-Application O O O B-Version O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Developer O O O O O O O O
+O O O O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O O B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O B-Application B-Version O B-Developer I-Developer O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O B-PlugIn O B-Version B-Citation O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O B-URL O O
+O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Developer I-Developer I-Developer O O O O O O O O O B-Version O
+O O O O O O O O O O O O O O O O O O B-ProgrammingEnvironment O B-PlugIn B-Citation O
+O O O O O O O O O O O O O
+O
+O O O O O O B-Application I-Application I-Application O B-Abbreviation O O O B-Version O B-Developer I-Developer I-Developer I-Developer O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version B-Citation O
+O O O O O O O B-Application O B-Citation O B-URL O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application O B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O B-Application O O B-Version O B-Developer I-Developer O O B-Application O B-Version O B-Developer I-Developer O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O O B-Version B-Citation O
+B-Application O O B-Application I-Application I-Application O B-Abbreviation O O B-URL O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application O O B-Version O B-Developer I-Developer I-Developer O O O O O O O O
+B-Application O B-Version B-Extension O O O O O O
+O O O O O O B-Application O O B-Version O B-Application I-Application O B-Version O B-OperatingSystem O O
+O O O O O B-Application O B-Version O B-Developer O O O O O O O
+O O O O O O O B-ProgrammingEnvironment O O O O O O O O B-PlugIn O O B-ProgrammingEnvironment O B-Release I-Release O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Developer O O B-Application I-Application O B-Application B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O
+O O O O B-Application O B-Developer B-Release O O O O O B-Application O O
+O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O O
+O O O O O O O O O O O O B-ProgrammingEnvironment O B-Developer O O O O O O B-Application O B-Citation O
+O O O B-ProgrammingEnvironment O B-PlugIn O B-Citation O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-Developer B-Application I-Application I-Application I-Application I-Application O O B-Application O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O B-Developer O O B-Application I-Application I-Application O B-Application O B-Developer O O O B-URL O O O O O O O O O O
+O O O O O B-Application O B-OperatingSystem O O B-Version O B-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O B-Application O O O O B-Version O B-URL O O
+O O O O O O O O O O O O O O B-Application O O O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Version O B-Application B-Version O O B-Application I-Application I-Application I-Application O B-Version O B-Application B-Version O O
+O O O O O O O O O O O O B-PlugIn I-PlugIn I-PlugIn B-Citation O O B-Application I-Application I-Application B-Citation O
+O O O O O O O O O B-Application O B-Application O B-Citation O
+O O O O O B-Application I-Application B-Citation O O B-Application O B-Version B-Citation O O O O O
+O O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O B-URL O B-Citation O
+O O O O O O O O O O O O O O O B-Developer B-Application I-Application O B-OperatingSystem I-OperatingSystem O B-URL O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn O O B-PlugIn I-PlugIn B-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-ProgrammingEnvironment B-Version O O B-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O B-Application O B-Version O B-Application B-Extension O B-Extension B-Version O
+O O O O O O B-PlugIn I-PlugIn O O O B-Developer I-Developer I-Developer I-Developer I-Developer O O O B-Abbreviation O B-Developer I-Developer I-Developer I-Developer I-Developer I-Developer I-Developer I-Developer I-Developer O O O B-Application I-Application O O O B-URL O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-PlugIn O O B-Application O O O O B-URL O O O O O O B-URL O O O O O O O O O O O B-ProgrammingEnvironment O O O B-Application I-Application B-Version I-Version O O B-OperatingSystem I-OperatingSystem O O O O B-Application B-Version O O O O B-Application O O B-License I-License I-License O O B-Version O
+O O O O O B-Developer B-Application O B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-Application I-Application I-Application O O O O O O O O O O O O O O O B-Application B-Citation O O B-Application I-Application I-Application I-Application O B-Abbreviation O O B-Citation O
+O O O O O O O O O O O O B-Application O O O O O O O B-ProgrammingEnvironment I-ProgrammingEnvironment O B-Developer B-OperatingSystem B-Version O O O
+O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Developer O O O O O O O O O B-Version O B-OperatingSystem O
+O O O O O O O O B-Application I-Application O B-Version O O O O B-Application O B-Version O O O O
+B-ProgrammingEnvironment O B-Citation O O B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O
+O O O O O O B-Application O B-Version O O O O O O B-Developer I-Developer I-Developer O O
+O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-OperatingSystem O O B-Version O O
+O O O O B-Application O O O B-URL O O O O O O B-Application O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Developer B-Application I-Application O O O B-Version O B-Developer I-Developer O O O O O O O O O
+O O
+O O O O O O O O O O O B-Application O B-Application O B-Application O B-Developer I-Developer I-Developer O O B-Application O B-Developer I-Developer O O O O O O O
+O O O O B-Application O O B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Application B-Citation O B-Application O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O B-Application I-Application I-Application I-Application I-Application O B-Abbreviation O B-URL O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Application O O B-Version O B-Developer I-Developer O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-PlugIn B-Version B-Citation O B-ProgrammingEnvironment B-Version O
+O O O O O B-Application B-Version B-Release O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O B-ProgrammingEnvironment B-Citation O O B-Version O O B-PlugIn B-Citation O O B-Version O
+B-Application B-Citation O O O O O O O O O O O O B-Application B-Citation O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O O O B-Version O B-Developer O O O O O O O O
+O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application O O O B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PlugIn O O B-ProgrammingEnvironment B-Citation O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Developer B-Application I-Application O O B-Version O
+O O B-OperatingSystem O B-OperatingSystem O O O O B-Application O
+O O O O O B-Application B-Version O B-Developer O O O O O O O O O
+O O O O O O O O O O O B-Application O B-Version O B-Developer I-Developer I-Developer O O O O O O O O B-OperatingSystem O O O O O O O B-Application B-Version O
+O B-Application O O O B-Extension I-Extension I-Extension B-OperatingSystem O B-OperatingSystem O O O O O O O O O O O O O O O O O O B-URL O
+O O O O O O O O O O B-Application B-Version O B-Citation O O B-ProgrammingEnvironment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-PlugIn I-PlugIn I-PlugIn O B-Abbreviation O B-URL O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Application O B-Version B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Application B-Version B-Citation O O O
+O O O B-Application O O B-Developer B-Application O O B-Version O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O B-Application B-Version O B-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O B-Application O B-Version O B-Developer I-Developer O O O O O O O O
+O O B-PlugIn O O O O O O O B-License I-License I-License I-License O B-URL O
+O O O O O B-Application B-Version O B-Abbreviation O O B-OperatingSystem O B-Developer I-Developer I-Developer O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O B-Application B-Version O O O O B-URL O O O O B-PlugIn I-PlugIn O O B-Version I-Version I-Version O
+O O O O O O O O O O O B-Application B-Citation O O O O O O O O O O O O B-Application O O O O O O O O
+O O O O O B-Application I-Application I-Application O B-Abbreviation O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O B-Application O O O B-PlugIn B-Citation O
+O O O O O O O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment B-Release O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O O O O O O O O O
+O O O O O O O O O O B-Application O O O O O O O O O O O O B-Application O O O O O O O O O B-Application O O
+O O O O O O B-Application O O B-Version O O O B-Citation O
+O O B-PlugIn O O O B-PlugIn O B-URL O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O O O O
+O O O O O B-Application B-Version O B-Developer O O O O O O O
+B-Application O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Citation O
+O O O O O O O B-PlugIn B-Citation O B-URL O O O O O
+O O O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer I-Developer O O O O O B-URL O O O B-ProgrammingEnvironment B-Release O B-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O O O O B-Developer I-Developer I-Developer O B-Abbreviation O B-Application B-Citation O O B-Application O
+O O O O O B-Application O B-Application B-Version O B-Developer I-Developer I-Developer I-Developer O O O O O O
+O O O O O O O O O O O O O
+O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O O B-Version O
+O O O O O O O O O O B-Application I-Application I-Application O B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O B-PlugIn O O O O B-URL O O O O O O O O O O O B-ProgrammingEnvironment O O O B-PlugIn O B-PlugIn O B-PlugIn O B-PlugIn O B-PlugIn O B-Application O B-Application O O B-License I-License B-Version O O O O O O O O O O O
+O O O O O O B-Application B-Version B-Citation O
+O O O O O O B-Application O O B-OperatingSystem O B-Version O B-Developer I-Developer O O O O O O
+O O O O O O O O O O O O B-Developer B-Application I-Application O O B-Version O O O O O O O O O O O O O O O O O O O O O
+O O O O O O B-Developer B-Application O B-OperatingSystem O O B-Version O
+O B-PlugIn O O O O B-ProgrammingEnvironment O B-ProgrammingEnvironment I-ProgrammingEnvironment I-ProgrammingEnvironment O O O B-PlugIn O B-Citation I-Citation I-Citation I-Citation I-Citation O O O B-ProgrammingEnvironment I-ProgrammingEnvironment I-ProgrammingEnvironment O O B-ProgrammingEnvironment O O O B-PlugIn O B-Citation O O O O O O
+B-Application I-Application I-Application O B-Version O O O O O O O O O O O O O O O O O O O O O B-Application O O O O O O O O O B-Application I-Application I-Application I-Application I-Application O O O O O O O O
+O O O O O O O O B-Developer B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O B-ProgrammingEnvironment B-Release I-Release O B-Developer I-Developer O O O O O O B-ProgrammingEnvironment B-Version O B-URL O O O B-ProgrammingEnvironment O O O O O B-PlugIn O O B-PlugIn O B-Citation O
+O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Application O O
+O O O O B-Application I-Application I-Application B-Version O O O B-URL O O O O O B-Developer B-OperatingSystem B-Version O B-Version O B-Version O O B-ProgrammingEnvironment O O B-ProgrammingEnvironment B-Version O O O B-Application I-Application I-Application B-Version O O O B-License I-License O
+O O O O O O O O O O O O O B-ProgrammingEnvironment O O B-PlugIn I-PlugIn O O O O O O O B-Citation O
+O O O O O O O O O O O B-ProgrammingEnvironment O B-PlugIn I-PlugIn I-PlugIn O O B-URL O O O O O O B-Citation O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Application B-Version O O
+O O O O O O O O O O O O O O B-ProgrammingEnvironment B-Version O B-URL O O
+O O O O B-Application B-Version B-Citation O
+B-Application B-Version O B-URL O O O O O O
+O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Abbreviation O O B-Citation I-Citation I-Citation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O
+O O O O O B-Application B-Version O B-ProgrammingEnvironment B-Version B-Citation O
+B-Application O B-OperatingSystem O B-Version O O O
+O O O O O O O O O B-Application B-Version O O O O O O O O B-URL
+O O O O B-Application O B-Version O B-OperatingSystem O B-Developer B-Application I-Application O B-OperatingSystem O O B-Version O
+O O O O O O B-Application O B-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName I-AlternativeName O O B-OperatingSystem O B-Version O O O
+B-Application O O O O O O O B-URL O O B-License I-License O
+O O O O O B-Application O O O B-ProgrammingEnvironment O O O B-ProgrammingEnvironment O O O O O O B-Citation O O O O O O O O O O O O O O O O O O
+O O O O O O B-Application B-Version O O O O O O O O B-Application B-Version O
+O O O O O O B-Developer B-Application O B-Version O B-Developer I-Developer O O O O O O O O O
+O O O O O O B-Developer O O B-Application I-Application I-Application I-Application I-Application O B-Abbreviation B-Citation O O O
+O O O O O O B-Application B-Version O B-Developer I-Developer I-Developer O O O O O O B-OperatingSystem O
+O O O O O O B-Developer B-Application B-Version O
+B-Application O O O O O O O O O O B-ProgrammingEnvironment O O O O O O O O B-URL O O O O O O O O O O O O
+O O O O O B-Application O O O B-Version O B-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O B-Application O O O O O O O B-Application B-Citation O O O O O O
+B-Application O O O O O O O O O B-License I-License I-License I-License O B-Abbreviation O O B-Version O
+O O O O O O O O O O O O O O O B-Application O O O O B-Version B-Citation O
+O O O O O O B-Application I-Application I-Application I-Application I-Application I-Application O B-Application O B-OperatingSystem O O B-Version O B-Developer I-Developer O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O O O O O B-Application O B-Version I-Version I-Version O B-Developer I-Developer O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O B-Version O B-Developer I-Developer O O
+O O O O O B-Developer B-Application B-Version O B-OperatingSystem O B-Developer I-Developer O O O O O O O
+O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O B-ProgrammingEnvironment O O O B-PlugIn B-Citation O B-PlugIn B-Citation O O O O O O O O O O O O O O O O O
+O O O O O O O O O O O O B-Application O B-Version B-Citation O
+B-Application O B-Version O O B-Developer I-Developer I-Developer B-Release O O O O O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O B-Version B-Citation O
+O O O O B-Developer B-Application O B-Version O B-OperatingSystem I-OperatingSystem I-OperatingSystem O
+B-Application O B-Version O B-Developer I-Developer I-Developer O O O O O O O O O O O O O O
+O O O B-Application I-Application I-Application I-Application I-Application O B-Developer B-Application O B-Version O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O B-Application B-Version O B-Developer O O O O O O O O O O O O O O O O O O O
+O O O O O O O B-Application O O O B-ProgrammingEnvironment O O O O B-PlugIn I-PlugIn O B-Citation O O O O O
+O O O O B-Application B-Version O B-Developer I-Developer O O O O O O O O O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Developer B-Application I-Application B-Version O
+O O O O O O O O O O O O O B-ProgrammingEnvironment B-Version B-Citation O O B-PlugIn I-PlugIn O B-Citation O
+O O O O O O O O O O O O O O O
+O O O O O O B-Application O B-Application O O O B-Version O B-OperatingSystem O
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O O O B-Application O O O O O O O O O O B-Application O B-URL I-URL I-URL I-URL I-URL O O
+O B-Application O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Application O O O O B-URL O

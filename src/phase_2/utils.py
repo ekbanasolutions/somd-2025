@@ -1,3 +1,6 @@
+"""
+Utility functions and custom loss implementations for Phase 2, including label alignment and data collation.
+"""
 import torch
 from torch.nn import functional as F
 from transformers import (

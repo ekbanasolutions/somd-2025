@@ -1,3 +1,7 @@
+"""
+Configuration file for Phase 2 model training, inference, and evaluation.
+Defines dataset paths, model paths, training hyperparameters, and device setup.
+"""
 import os
 import torch
 

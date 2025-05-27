@@ -1,3 +1,7 @@
+"""
+Training and evaluation script for relation extraction with class-weighted adapter layers in Phase 2.
+Handles dataset loading, class weighting, model setup, and evaluation.
+"""
 import os
 import sys
 import torch

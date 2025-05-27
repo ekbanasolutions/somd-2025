@@ -21,7 +21,7 @@ import torch.nn.functional as F
 from torch.nn import init
 from transformers import PreTrainedTokenizer
 
-from .config_ import (
+from config_ import (
     BASE_MODEL,
     CHECKPOINT_PATH,
     MAX_RELATION,
@@ -122,10 +122,11 @@ def load_data(text_file, entity_file, relation_file, max_sentences=None):
     match_lengths,
     matching_indices,
 ) = load_data(
-    "sentences.txt",
-    "entities.txt",
-    "relations.txt",
+    "../../data/phase_1/sentences.txt",
+    "../../data/phase_1/entities.txt",
+    "../../data/phase_1/relations.txt",
 )
+
 
 num_labels_entity = len(label2id_entity)
 num_labels_relation = len(label2id_relation) 
@@ -533,12 +534,29 @@ checkpoint = torch.load(JOINT_CHECKPOINT_PATH)
 model.load_state_dict(checkpoint)
 model.to(device)
 
-test_texts_file = "test_texts_phase_2.txt"
-entity_output_file = "Phase_2/predictions.entities.txt"
-relation_output_file = "Phase_2/predictions.relations.txt"
+test_texts_file = "../../data/phase_1/test_texts.txt"
+entity_output_file = "../../data/predictions/phase_1/predictions.entities.txt"
+relation_output_file = "../../data/predictions/phase_1/predictions.relations.txt"
 
-open(entity_output_file, "w", encoding="utf-8").close()
-open(relation_output_file, "w", encoding="utf-8").close()
+open(entity_output_file, "w+", encoding="utf-8").close()
+open(relation_output_file, "w+", encoding="utf-8").close()
+
+test_dataset = TextDataset(test_texts_file, tokenizer)
+test_loader = DataLoader(test_dataset, batch_size=TEST_BATCH_SIZE, shuffle=False)
+
+entity_labels = save_inference_results(
+    model, test_loader, entity_output_file, relation_output_file
+)
+
+print(f"Entity predictions saved to: {entity_output_file}")
+print(f"Relation predictions saved to: {relation_output_file}")
+
+test_texts_file = "../../data/phase_2/test_texts.txt"
+entity_output_file = "../../data/predictions/phase_2/predictions.entities.txt"
+relation_output_file = "../../data/predictions/phase_2/predictions.relations.txt"
+
+open(entity_output_file, "w+", encoding="utf-8").close()
+open(relation_output_file, "w+", encoding="utf-8").close()
 
 test_dataset = TextDataset(test_texts_file, tokenizer)
 test_loader = DataLoader(test_dataset, batch_size=TEST_BATCH_SIZE, shuffle=False)
@@ -550,19 +568,3 @@ entity_labels = save_inference_results(
 print(f"Entity predictions saved to: {entity_output_file}")
 print(f"Relation predictions saved to: {relation_output_file}")
 
-test_texts_file = "test_texts_phase_1.txt"
-entity_output_file = "Phase_1/predictions.entities.txt"
-relation_output_file = "Phase_1/predictions.relations.txt"
-
-open(entity_output_file, "w", encoding="utf-8").close()
-open(relation_output_file, "w", encoding="utf-8").close()
-
-test_dataset = TextDataset(test_texts_file, tokenizer)
-test_loader = DataLoader(test_dataset, batch_size=TEST_BATCH_SIZE, shuffle=False)
-
-entity_labels = save_inference_results(
-    model, test_loader, entity_output_file, relation_output_file
-)
-
-print(f"Entity predictions saved to: {entity_output_file}")
-print(f"Relation predictions saved to: {relation_output_file}")

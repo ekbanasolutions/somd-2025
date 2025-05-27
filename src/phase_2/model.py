@@ -1,3 +1,7 @@
+"""
+Model definitions for Phase 2, including custom transformer-based models and loss functions for NER and relation extraction.
+"""
+
 import torch.nn as nn
 import torch
 from torch.nn import init
@@ -14,6 +18,9 @@ from safetensors.torch import load_file
 
 
 class CustomModel(nn.Module):
+    """
+    Custom model for NER extraction tasks.
+    """
     def __init__(self, model_name, num_labels):
         super().__init__()
         self.config = AutoConfig.from_pretrained(model_name, num_labels=num_labels)

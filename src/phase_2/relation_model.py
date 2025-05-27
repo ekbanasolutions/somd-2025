@@ -1,3 +1,6 @@
+"""
+Implements the RelationModel for extracting relations between entities using transformer-based encoders.
+"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

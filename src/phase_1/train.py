@@ -1,3 +1,6 @@
+"""
+Training script for Phase 1: handles data loading, model training, and evaluation for NER and relation extraction.
+"""
 import torch
 from torch.utils.data import Dataset, DataLoader
 from transformers import (
@@ -30,7 +33,7 @@ from torch.optim import AdamW
 import torch
 from tqdm import tqdm
 
-from .config_ import (
+from config_ import (
     BASE_MODEL,
     CHECKPOINT_PATH,
     TRAIN_SIZE,
@@ -48,7 +51,7 @@ from .config_ import (
 warnings.filterwarnings("ignore")
 
 # Device setup
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"  # Use GPU 0
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"  # Use GPU 0
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
@@ -136,9 +139,9 @@ def load_data(text_file, entity_file, relation_file, max_sentences=None):
     match_lengths,
     matching_indices,
 ) = load_data(
-    "sentences.txt",
-    "entities.txt",
-    "relations.txt",
+    "../../data/phase_1/train_texts.txt",
+    "../../data/phase_1/train_entities.txt",
+    "../../data/phase_1/train_relations.txt",
 )
 
 # Number of labels
