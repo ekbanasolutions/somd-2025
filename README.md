@@ -1,4 +1,4 @@
-# SOMD 2025: Adaptive Finetuning of ModernBERT for In- and Out-of-Domain NER and Relation Classification of Software Mentions in Scientific Texts
+# SOMD 2025: Finetuning ModernBERT for In- and Out-of-Distribution NER and Relation Extraction of Software Mentions in Scientific Texts
 
 ## Table of Contents
 
