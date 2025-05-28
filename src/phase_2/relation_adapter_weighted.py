@@ -15,7 +15,7 @@ from torch.optim.lr_scheduler import OneCycleLR
 
 # Import configuration, models, and dataset-related functions/classes
 from config import BASE_MODEL, MAX_RELATIONS, RANDOM_SEED, MODEL_SAVE_PATH, PRETRAINED_MODEL_PATH
-from .model import CustomModel
+from .model import EntityModel
 from .relation_model import RelationModel
 from .dataloader import load_data, num_labels_entity, num_labels_relation
 from .relation_dataset import RelationDataset
@@ -175,7 +175,7 @@ val_dataloader = DataLoader(
     val_dataset, batch_size=8, shuffle=False, collate_fn=custom_data_collator
 )
 
-custom_model = CustomModel(BASE_MODEL, num_labels_entity)
+custom_model = EntityModel(BASE_MODEL, num_labels_entity)
 model = RelationModel(
     custom_model,
     num_labels_entity,
