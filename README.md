@@ -18,7 +18,7 @@ In this project, we utilize the dataset and evaluation criteria defined by Softw
 
 ```bash
 .
-├── CustomModel_checkpoint/
+├── EntityModel_checkpoint/
 ├── FewShot_checkpoint/
 ├── JointModel_checkpoint/
 ├── ModernBERT_checkpoint/

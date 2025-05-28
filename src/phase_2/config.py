@@ -25,7 +25,7 @@ TEST_MODEL_PATH = (
     "../../JointModel_Checkpoint/phase_2/relation_adapter_weighted_best.pt"
 )
 CHECKPOINT_PATH = (
-    "../../CustomModel_checkpoint/model.safetensors"
+    "../../EntityModel_checkpoint/model.safetensors"
 )
 
 PRETRAINED_MODEL_PATH = "../../FewShot_checkpoint/few_shot_finetuned_model_with_val_ner_relation_finetuned.pt"
