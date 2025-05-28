@@ -384,7 +384,7 @@ class RelationModel(nn.Module):
 
         # Relation extraction layers
         self.fc1_relation = nn.Linear(hidden_size * 3, hidden_size // 2)
-        self.act1_relation = nn.GELU()
+        self.act1_relation = nn.ReLU()
         self.dropout1_relation = nn.Dropout(0.4)  # Increased dropout to 0.5
         self.fc2_relation = nn.Linear(hidden_size // 2, num_relation_labels)
 
