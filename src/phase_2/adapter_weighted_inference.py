@@ -20,7 +20,7 @@ from .config import (
     ENTITY_OUTPUT_FILE, 
     RELATION_OUTPUT_FILE,
 )
-from .model import CustomModel
+from .model import EntityModel
 from .relation_model import RelationModel
 from .dataloader import (
     num_labels_entity,
@@ -140,7 +140,7 @@ def main():
     
     # Load the base model first
     print(f"Loading base model from: {CHECKPOINT_PATH}")
-    custom_model = CustomModel(BASE_MODEL, num_labels_entity).to(DEVICE)
+    custom_model = EntityModel(BASE_MODEL, num_labels_entity).to(DEVICE)
     state_dict = load_file(CHECKPOINT_PATH)
     custom_model.load_state_dict(state_dict)
     
