@@ -17,7 +17,7 @@ from .dataloader import num_labels_entity
 from safetensors.torch import load_file
 
 
-class CustomModel(nn.Module):
+class EntityModel(nn.Module):
     """
     Custom model for NER extraction tasks.
     """
@@ -241,6 +241,6 @@ class CustomVaghawan(nn.Module):
         return {"loss": loss, "logits": logits, "hidden_states": all_hidden_states[-2]}
 
 
-custom_model = CustomModel(BASE_MODEL, num_labels_entity).to("cuda")
+custom_model = EntityModel(BASE_MODEL, num_labels_entity).to("cuda")
 state_dict = load_file(CHECKPOINT_PATH)
 custom_model.load_state_dict(state_dict)
