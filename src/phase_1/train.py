@@ -322,7 +322,7 @@ val_loader = DataLoader(
 )
 
 
-class CustomModel(nn.Module):
+class EntityModel(nn.Module):
     def __init__(self, model_name, num_labels):
         super().__init__()
         self.config = AutoConfig.from_pretrained(model_name, num_labels=num_labels)
@@ -360,7 +360,7 @@ class CustomModel(nn.Module):
         return {"loss": loss, "logits": logits, "hidden_states": all_hidden_states[-2]}
 
 
-custom_model = CustomModel(model_name, num_labels=num_labels_entity).to(device)
+custom_model = EntityModel(model_name, num_labels=num_labels_entity).to(device)
 
 state_dict_custom = load_file(checkpoint_path)
 custom_model.load_state_dict(state_dict_custom)
